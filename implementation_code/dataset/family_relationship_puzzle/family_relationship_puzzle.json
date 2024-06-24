@@ -1,0 +1,567 @@
+[
+    {
+        "context": "Rupesh introduces Poonam as the daughter of the only son of my father's wife.",
+        "question": " How is Poonam related to Rupesh?",
+        "options": [
+            "Cousin",
+            "Niece",
+            "Daughter",
+            "Aunt"
+        ],
+        "reasoning": "Break the given sentence at 'as.' Resolving from the last, In the view of Rupesh, My father's wife - mother. Only son of mother - himself i.e. Rupesh. Daughter of Rupesh - daughter.",
+        "answer": "C",
+        "structured_context": "Rupesh is A's father's. A is B's husband. B is C's mother. C is Poonam's father.",
+        "structured_question": "Who's Poonam to Rupesh?"
+    },
+    {
+        "context": "Neha said Introducing Rajesh, 'His brother's father is the only son of my grandfather'",
+        "question": "How Neha is related to Rajesh?",
+        "options": [
+            "Sister",
+            "Daughter",
+            "Mother",
+            "Niece"
+        ],
+        "reasoning": "",
+        "answer": "A",
+        "structured_context": "Neha is A's granddaughter. A is B's father. B is Rajesh's father.",
+        "structured_question": "Who's Neha to Rajesh?"
+    },
+    {
+        "context": "A woman said Introducing a man, , 'His wife is the only daughter of my mother.",
+        "question": "How is the woman related to that man?",
+        "options": [
+            "Aunt",
+            "Wife",
+            "Mother-in-law",
+            "Maternal Aunt"
+        ],
+        "reasoning": "",
+        "answer": "B",
+        "structured_context": "Jamal is A's daughter. A is B's mother. B is Sam's wife. Jamal is female.",
+        "structured_question": "Who's Jamal to Sam?"
+    },
+    {
+        "context": "Pointing out to a lady, a girl said, 'She is the daughter-in-law of the grandmother of my father's only son.'",
+        "question": "How is the lady related to the girl?",
+        "options": [
+            "Sister-in-Law",
+            "Mother",
+            "Mother/Aunt"
+        ],
+        "reasoning": "Daughter-in-law of girl's grandmother can be their mother, or maternal uncle's wife, i.e. aunt. So, relation cannot be determined.",
+        "answer": "C",
+        "structured_context": "Isha is A's daughter. A is B's father. B is C's grandson. C is Smru's daughter-in-law. Isha is female. Smru is female.",
+        "structured_question": "Who's Smru to Isha?"
+    },
+    {
+        "context": "Suresh said Pointing to a photograph of a boy, 'He is the son of the only son of my mother.'",
+        "question": "How is Suresh related to that boy?",
+        "options": [
+            "Brother",
+            "Uncle",
+            "Cousin",
+            "Father"
+        ],
+        "reasoning": "The boy in the photograph is the only son of Suresh's mother, i.e., the son of Suresh. Hence, Suresh is the father of the boy.",
+        "answer": "D",
+        "structured_context": "Suresh is A's son. A is B's mother. B is Kas's father. Kas is male.",
+        "structured_question": "Who's Suresh to Kas?"
+    },
+    {
+        "context": " a girl said Introducing a boy,, 'He is the son of the daughter of the father of my uncle.'",
+        "question": "How is the boy related to the girl?",
+        "options": [
+            "Brother",
+            "Nephew",
+            "Uncle",
+            "Son-in-law"
+        ],
+        "reasoning": "The father of the boy's uncle \u2192 the grandfather of the boy and daughter of the grandfather \u2192 sister of father.",
+        "answer": "A",
+        "structured_context": "Kas is A's uncle. A is B's father. B is C's daughter. C is Isha's father. Isha is female. Kas is male.",
+        "structured_question": "Who's Kas related to Isha?"
+    },
+    {
+        "context": ", Meena said Introducing Sarita, 'She is the only daughter of my father's only daughter.'",
+        "question": "How is Meena related to Sarita?",
+        "options": [
+            "(a) Niece",
+            "(b) Cousin",
+            "(c) Aunt",
+            "(d) None of these"
+        ],
+        "reasoning": "",
+        "answer": "D",
+        "structured_context": "Meena is A's grandmother. A is Sarita's granddaughter.",
+        "structured_question": "Who's Meena to Sarita?"
+    },
+    {
+        "context": " Abhijit said Pointing to a woman, 'Her granddaughter is the only daughter of my brother.'",
+        "question": "How is the woman related to Abhijit?",
+        "options": [
+            "Sister",
+            "Grandmother",
+            "Mother-in-law",
+            "Mother"
+        ],
+        "reasoning": "Daughter of Abhijit's brother is niece of Abhijit. Thus the granddaughter of the woman is Abhijit's niece. Hence, the woman is the mother of Abhijit.",
+        "answer": "D",
+        "structured_context": "Abhijit is A's brother. A is B's father. B is Jamal's grandaughter. Jamal is female.",
+        "structured_question": "Who's Jamal to Abhijit?"
+    },
+    {
+        "context": "Richa said Introducing a boy to her mother, that he is the son of the daughter of the father of her uncle.",
+        "question": "How is Richa related to the boy?",
+        "options": [
+            "Brother-in-law",
+            "Brother",
+            "Father",
+            "Uncle",
+            "Son"
+        ],
+        "reasoning": "The daughter of the father of Richa's uncle is Richa's mother. Therefore, the boy is the son of Richa's mother, making him Richa's brother.",
+        "answer": "B",
+        "structured_context": "Richa is A's neice's. A is B's father. B is Kas's mother. Kas is male.",
+        "structured_question": "Who's Richa to the Kas?"
+    },
+    {
+        "context": "Anil, introducing a girl in a party, said, she is the wife of the grandson of my mother.",
+        "question": " How is Anil related to the girl?",
+        "options": [
+            "(a) Father",
+            "(b) Grandfather",
+            "(c) Husband",
+            "(d) Father-in-law"
+        ],
+        "reasoning": "",
+        "answer": "D",
+        "structured_context": "Anil is A's son. A is B's grandmother. B is Isha's husband. Isha is female.",
+        "structured_question": "Who's Anil to Isha?"
+    },
+    {
+        "context": "a woman said, Introducing a man, , 'His wife is the only daughter of my mother.'",
+        "question": "How is the woman related to that man?",
+        "options": [
+            "(a) Aunt",
+            "(b) Wife",
+            "(c) Mother-in-law",
+            "(d) Maternal Aunt"
+        ],
+        "reasoning": "",
+        "answer": "B",
+        "structured_context": "Jamal is A's son. A is B's mother. B is Sam's wife. Sam is male. Jamal is female.",
+        "structured_question": "Who's Jamal to Sam?"
+    },
+    {
+        "context": "Abhishek said, Pointing to a girl, 'She is daughter of the only child of my father.'",
+        "question": " How is Abhishek related to that girl?",
+        "options": [
+            "(a) Daughter",
+            "(b) Father",
+            "(c) Aunt",
+            "(d) Sister"
+        ],
+        "reasoning": "",
+        "answer": "B",
+        "structured_context": "Abhishek is A's son. A is B's father. B is Isha's father. Isha is female.",
+        "structured_question": "Who's Abhishek to Isha?"
+    },
+    {
+        "context": "Meena said, Introducing Sarita, , 'She is the daughter of my father's daughter.'",
+        "question": " How is Meena related to Sarita?",
+        "options": [
+            "(a) Niece",
+            "(b) Cousin",
+            "(c) Aunt",
+            "(d) Daughter"
+        ],
+        "reasoning": "",
+        "answer": "D",
+        "structured_context": "Meena is Sarita's aunt",
+        "structured_question": "Who's Meena to Sarita?"
+    },
+    {
+        "context": "Nicholas said, 'This girl is the wife of the grandson of my mother.'",
+        "question": "Who is Nicholas to this girl?",
+        "options": [
+            "Father",
+            "Husband",
+            "Grandfather",
+            "Father-in-Law"
+        ],
+        "answer": "B",
+        "structured_context": "Nicholas is A's mother. A is B's grandmother. B is Isha's husband. Isha is female.",
+        "structured_question": "Who's Nicholas to Isha?"
+    },
+    {
+        "context": "Parth says, 'Shaikh's father is the only son of my own mother,'",
+        "question": "How is Parth related to Shaikh?",
+        "options": [
+            "Father",
+            "Brother",
+            "Grandfather",
+            "Son"
+        ],
+        "answer": "D",
+        "structured_context": "Parth is A's brother. A is Shaikh's father.",
+        "structured_question": "Who's Parth to Shaikh?"
+    },
+    {
+        "context": "Rajan said, Pointing to Lalit in Photograph, , 'His mother has only one grandchild whose mother is my sister.'",
+        "question": "How is Rajan related to Lalit?",
+        "options": [
+            "Brother",
+            "Father-In-Law",
+            "Brother-In-Law",
+            "Data Inadequate"
+        ],
+        "answer": "C",
+        "structured_context": "Rajan is A's brother. A is Lalit's wife.",
+        "structured_question": "Who's Rajan to Lalit?"
+    },
+    {
+        "context": "Point to a man, Anjali said, 'He is the brother of the daughter of the wife of my husband.'",
+        "question": "How is the man on stage related to Anjali?",
+        "options": [
+            "Son",
+            "Cousin",
+            "Husband",
+            "Nephew"
+        ],
+        "answer": "A",
+        "structured_context": "Anjali is A's mother. A is Sam's sister. Sam is male.",
+        "structured_question": "Who's Sam to Anjali?"
+    },
+    {
+        "context": "a girl said, Introducing a boy, , 'He is the only son of my mother's mother",
+        "question": "How is the girl related to the boy?",
+        "options": [
+            "Aunt",
+            "Sister",
+            "Niece",
+            "Mother"
+        ],
+        "answer": "C",
+        "structured_context": "Isha is A's child. A is B's child. B is Kas's parent. Isha is female. Kas is male.",
+        "structured_question": "Who's Isha to Kas?"
+    },
+    {
+        "context": "Abhishek said, Pointing to a girl, 'She is daughter of the only child of my father'",
+        "question": "How is Abhishek related to that girl?",
+        "options": [
+            "Daughter",
+            "Father",
+            "Aunt",
+            "Sister"
+        ],
+        "answer": "B",
+        "structured_context": "Abhishek is A's son. A is B's parent. B is Isha's parent. Isha is female.",
+        "structured_question": "Who's Abhishek to that Isha?"
+    },
+    {
+        "context": "Naman said, Pointing to a man in the park,  His son is my son's uncle.",
+        "question": "How is the man related to Naman?",
+        "options": [
+            "Brother",
+            "Father",
+            "Uncle",
+            "Grandfather"
+        ],
+        "answer": "B",
+        "structured_context": "Naman is A's father. A is B's nephew. B is Sam's son. Sam is male.",
+        "structured_question": "Who's Sam to Naman?"
+    },
+    {
+        "context": "Pointing to a photograph, Sachin said She is the grandmother of my father's sister's son. ",
+        "question": "How is the woman in the photograph related to Sachin?",
+        "options": [
+            " Mother ",
+            " Aunt ",
+            " Cousin ",
+            "Grandmother"
+        ],
+        "answer": "D",
+        "reasoning": "She is the grandmother of my (Sachin's) father's sister's son. i.e., she is the grandmother of Sachin's father's sister's son. Hence, she is Sachin's grandmother.",
+        "structured_context": "Sachin is A's cousin. A is Jamal's granson. Jamal is female.",
+        "structured_question": "Jamal to Sachin?"
+    },
+    {
+        "context": "Pointing to a photograph, Arun said, 'She is the mother of my brother's son's wife's daughter.",
+        "question": "How is Arun related to the lady?",
+        "options": [
+            "Uncle",
+            "Daughter-in-law",
+            "Cousin",
+            "Brother"
+        ],
+        "answer": "A",
+        "reasoning": "One's brother's son's wife's daughter implies paternal granddaughter of one's brother. Now, the mother of paternal granddaughter of one's brother implies wife of one's nephew. She is the mother of my (Arun) brother's son's wife's daughter. i.e. She is the mother of Arun's brother's granddaughter. i.e., She is the daughter-in-law of Arun's brother. Hence Arun is the uncle of the female's husband.",
+        "structured_context": "Arun is A's brother. A is B's father. B is C's husband. C is Smru's mother. Smru is female.",
+        "structured_question": "Who's Arun to the Smru?"
+    },
+    {
+        "context": "Nilama said, Introducing Ramprakash,  His brother's father is the only son of my grandfather. ",
+        "question": "How Nilama is related to Ramprakash?",
+        "options": [
+            "Sister",
+            "Daughter",
+            "Mother",
+            "Niece"
+        ],
+        "answer": "A",
+        "reasoning": "The Father of Ramprakash's brother is the father of Ramprakash. Ramprakash's father is the only son of Nilama's grandfather. Hence, Ramprakash's father is Nilama's father. So, Nilama is the sister of Ramprakash.",
+        "structured_context": "Nilama is A's grandchild. A is B's only son. B is Nilama's brother's father. B is Ramprakash's father.",
+        "structured_question": "to Nilama Ramprakash?"
+    },
+    {
+        "context": "A man said to a woman, Your brother's only sister is my mother. ",
+        "question": "What is the relation of the woman with the man?",
+        "options": [
+            "Mother",
+            "Sister",
+            "Niece",
+            "Daughter"
+        ],
+        "answer": "A",
+        "reasoning": "The only sister of the brother of the woman will be the woman herself and she is the mother of that man. Thus, the woman is the daughter of the maternal grandmother of that man.",
+        "structured_context": "Sam is A's child. A is B's sister. B is Jamal's brother. Sam is male. Jamal is female.",
+        "structured_question": "Who's Jamal to Sam?"
+    },
+    {
+        "context": "a woman said, Introducing a man, , His wife is the only daughter of my mother. ",
+        "question": "How is the woman related to that man?",
+        "options": [
+            " Aunt ",
+            " Wife ",
+            " Mother-in-law ",
+            " Maternal Aunt "
+        ],
+        "answer": "B",
+        "reasoning": "Clearly, the only daughter of her mother is the woman herself. So, that woman is the wife of the man.",
+        "structured_context": "Jamal is A's son. A is B's mother. B is Sam's wife. Sam is male. Jamal is female.",
+        "structured_question": "Who's Jamal to Sam?"
+    },
+    {
+        "context": "Vimal said , Pointing to a girl, she is the only daughter of my grandfather's only son.",
+        "question": " How is the girl related to Vimal?",
+        "options": [
+            "Daughter",
+            "Sister",
+            "Data inadequate",
+            "Niece"
+        ],
+        "answer": "B",
+        "reasoning": "The only daughter of grandfather's only child means father's daughter. So the girl is Vimal's sister.",
+        "structured_context": "Vimal is A's grandson. A is B's father. B is Isha's father. Isha is female.",
+        "structured_question": "Who's Isha to Vimal?"
+    },
+    {
+        "context": "a girl said, Pointing out to a lady,  she is the daughter-in-law of the grandmother of my father's only son. ",
+        "question": "How is the lady related to the girl?",
+        "options": [
+            " Sister-in-law ",
+            " Mother ",
+            " Aunt ",
+            " Mother-in-law "
+        ],
+        "answer": "B",
+        "reasoning": "Girl's Father's only son  Girl's brother; Grandmother of Girl's brother  Girl's Grandmother; Daughter-in-law of girl's grandmother  Girls' mother.",
+        "structured_context": "Isha is A's sister. A is B's grandson. B is Isha's mother-in-law. Isha is female. Smru is female.",
+        "structured_question": "Who's Smru to Isha?"
+    },
+    {
+        "context": "Pointing out to a photograph, a man tells his friend, the girl is the daughter of the only son of my father's wife. ",
+        "question": "How is the girl related to the man in the photograph?",
+        "options": [
+            "Daughter",
+            "Cousin",
+            "Mother",
+            "Sister"
+        ],
+        "answer": "A",
+        "reasoning": "Father's wife means mother; mother's only son means himself and thus the girl is the daughter of the man.",
+        "structured_context": "Sam is A's son. A is B's mother. B is C's parent. C is Isha's parent. Isha is female. Sam is male.",
+        "structured_question": "Who's Isha to Sam?"
+    },
+    {
+        "context": "Shilpa said, Pointing to Kapil, His mother's brother is the father of my son Ashish. ",
+        "question": "How is Kapil related to Shilpa",
+        "options": [
+            " Sister-in-law ",
+            " Nephew ",
+            " Niece ",
+            " Aunt "
+        ],
+        "answer": "B",
+        "reasoning": "Father of Shilpa's son  Shilpa's husband. So, Kapil is the son of the sister of Shilpa's husband. Thus, Kapil is Shilpa's nephew.",
+        "structured_context": "Shilpa is Ashish's mother. Ashish is A's child. A is Kapil's uncle.",
+        "structured_question": "Who's Kapil to Shilpa?"
+    },
+    {
+        "context": "a lady said, Pointing towards a man in the photograph, the father of his brother is the only son of my mother. ",
+        "question": "How is the man related to the lady?",
+        "options": [
+            " Brother ",
+            " Son ",
+            " Cousin ",
+            " Nephew "
+        ],
+        "answer": "D",
+        "reasoning": "The father of his brother  his father. Only son of my mother  my brother. Hence, his father is my brother. It means the lady is the man's father's sister.",
+        "structured_context": "Sam is A's brother. A is B's son. B is Smru's brother. Sam is male. Smru is female.",
+        "structured_question": "Who's Sam to Smru?"
+    },
+    {
+        "context": "Deepika tells Shraddha Your mother's father's son is the husband of my sister. ",
+        "question": "How is Deepika related to Shraddha?",
+        "options": [
+            " Sister-in-law ",
+            " Cousin. ",
+            " Aunt ",
+            " Data inadequate "
+        ],
+        "answer": "C",
+        "reasoning": "Shraddha's mother's father's son (=Shraddha's maternal uncle). Shraddha's maternal uncle is husband of Deepika's sister. Deepika is 'aunt' of Shraddha.",
+        "structured_context": "Deepika is A's sister. A is B's wife. B is Shraddha's father.",
+        "structured_question": "Who's Deepika to Shraddha?"
+    },
+    {
+        "context": " a man said Pointing to Sushmita,, 'She is the only daughter of my daughter's paternal grandmother.' ",
+        "question": "How is that man related to Sushmita ?",
+        "options": [
+            "Father's brother",
+            "Brother",
+            "Mother's brother",
+            "More than one of the above",
+            "None of the above"
+        ],
+        "answer": "B",
+        "structured_context": "Sushmita is A's daughter. A is B's daughter. B is Sam's mother. Sam is male.",
+        "structured_question": "Who's Sam to Sushmita?"
+    },
+    {
+        "context": "Pointing to a photograph Anjali said, 'He is the son of the only son of my grandfather.'",
+        "question": "How is the man in the photograph related to Anjali?",
+        "options": [
+            "Brother",
+            "Uncle",
+            "Son"
+        ],
+        "reasoning": "The man in the photograph is son of Anjali's grandfather's son i.e., the son of Anjali's father. Hence, the boy is the brother of Anjali.",
+        "answer": "A",
+        "structured_context": "Sam is A's son. A is B's son. B is Anjali's grandfather. Sam is male.",
+        "structured_question": "Who's Sam to Anjali?"
+    },
+    {
+        "context": " a woman said, Introducing a man,, 'He is the only son of the mother of my mother.'",
+        "question": "How is the woman related to the man?",
+        "options": [
+            "Mother",
+            "Sister",
+            "Niece",
+            "Maternal aunt"
+        ],
+        "reasoning": "The man is the only son of the mother of the woman. Hence, the man is the maternal uncle of the woman. So, the woman is the niece of the man.",
+        "answer": "C",
+        "structured_context": "Sam is A's son. A is B's mother. B is Jamal's mother. Sam is male. Jamal is female.",
+        "structured_question": "Who's Jamal to Sam?"
+    },
+    {
+        "context": "Nalni says, Pointing to Gopi,  'I am the daughter of the only son of his grandfather.'",
+        "question": "How Nalni is related to Gopi?",
+        "options": [
+            "Niece",
+            "Daughter",
+            "Sister"
+        ],
+        "reasoning": "Nalni is the daughter of the only son of Gopi's grandfather. Hence, it's clear that Nalni is the sister of Gopi.",
+        "answer": "C",
+        "structured_context": "Nalni is A's daughter. A is B's son. B is Gopi's grandfather.",
+        "structured_question": "Who's Nalni to Gopi?"
+    },
+    {
+        "context": "Sandeep said,  Pointing to a girl 'She is the daughter of the only sister of my father.'",
+        "question": "How is Sandeep related to the girl?",
+        "options": [
+            "Uncle",
+            "Cousin",
+            "Father",
+            "Grandfather"
+        ],
+        "reasoning": "The girl is the daughter of the sister of Sandeep's father. Hence, the girl is the cousin or Sandeep is the cousin of the girl.",
+        "answer": "B",
+        "structured_context": "Sandeep is A's son. A is B's sister. B is Isha's mother. Isha is female.",
+        "structured_question": "Who's Sandeep to Isha?"
+    },
+    {
+        "context": "Reena said, Pointing to a boy in the photograph , 'He is the only son of the only child of my grandfather.'",
+        "question": "How Reena is related to that boy?",
+        "options": [
+            "Mother",
+            "Sister",
+            "Aunt"
+        ],
+        "reasoning": "The boy in the photograph is the only son of Reena's grandfather's only son; i.e., the boy is the only son of Reena's father. Hence, the boy is the brother of Reena or Reena is the sister of the boy.",
+        "answer": "B",
+        "structured_context": "Reena is A's granddaughter. A is B's father. B is Kas's parent. Kas is male.",
+        "structured_question": "Who's Reena to Kas?"
+    },
+    {
+        "context": "Anil introduces Rohit as the son of the only brother of his father's wife.",
+        "question": "How is Rohit related to Anil?",
+        "options": [
+            "Cousin",
+            "Son",
+            "Uncle",
+            "Son-in-law",
+            "Brother"
+        ],
+        "answer": "A",
+        "reasoning": "Rohit is the son of Anil's father's wife's only brother. So, Rohit is Anil's cousin.",
+        "structured_context": "Rohit is A's son. A is B's brother. B is Anil's father.",
+        "structured_question": "Who's Rohit to Anil?"
+    },
+    {
+        "context": "Rajan said, Pointing out to a lady,  'She is the daughter of the woman who is the mother of the husband of my mother.'",
+        "question": "Who is the lady to Rajan?",
+        "options": [
+            "Aunt",
+            "Granddaughter",
+            "Daughter",
+            "Sister"
+        ],
+        "answer": "A",
+        "reasoning": "The lady is the daughter of the mother of Rajan's mother's husband. Hence, the lady is Rajan's aunt.",
+        "structured_context": "Rajan is A's son. A is B's wife. B is C's son. C is Smru's daughter. Smru is female.",
+        "structured_question": "Who's Smru to Rajan?"
+    },
+    {
+        "context": "A woman said, Pointing to a man, 'His mother is the only daughter of my mother.' ",
+        "question": "How is the woman related to the man?",
+        "options": [
+            "Mother",
+            "Daughter",
+            "Sister",
+            "Grandmother"
+        ],
+        "answer": "A",
+        "reasoning": "The man's mother is the only daughter of the woman's mother. So, the woman is the mother of the man.",
+        "structured_context": "Jamal is A's daughter. A is B's mother. B is Sam's mother",
+        "structured_question": "Who's Jamal to Sam?"
+    },
+    {
+        "context": "Raman introduces Aman as the son of the only brother of his father's wife.",
+        "question": "What is the relation of Aman with Raman?",
+        "options": [
+            "Uncle",
+            "Grandfather",
+            "Grandson",
+            "Cousin"
+        ],
+        "answer": "D",
+        "reasoning": "Aman is the son of the only brother of Raman's father's wife, which means Aman is Raman's cousin.",
+        "structured_context": "Raman is A's son. A is B's brother. B is Aman's father.",
+        "structured_question": "Who's Aman to Raman?"
+    }
+]

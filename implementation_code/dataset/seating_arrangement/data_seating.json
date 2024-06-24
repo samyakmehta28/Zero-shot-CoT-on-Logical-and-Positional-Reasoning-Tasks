@@ -1,0 +1,2356 @@
+[
+    {
+        "context": "A certain number of people sit around a circular table and face towards the center of the table. Some of them like different colors. Three people sit between P and the one who likes Grey. The one who likes Orange sits third to the left of Q. The number of people sitting between P and Q is the same as the number of people sitting between Q and R. S sits third to the right of R who doesn\u2019t like Purple. Q sits second to the left of the one who likes Grey. Two people sit between S and the one who likes Purple. The one who likes Green sits fourth to the right of the one who likes Grey. Five people sit between T and the one who likes Black. S doesn\u2019t sit adjacent to the one who likes Black. Three people sit between R and the one who likes Black. The one who likes Pink sits third to the right of the one who likes Green. T doesn\u2019t sit adjacent to the one who likes Pink. U sits to the immediate left of the one who likes Black and third to the left of the one who likes Yellow. The one who likes Red sits second to the right of the one who likes Yellow. One person sits between the one who likes Green and T who is not a neighbour of S. The Same number of people sit between the one who likes Grey and V from both sides.",
+        "question": "How many people sit around the circular table?",
+        "options": [
+            "Twenty-two",
+            "Eighteen",
+            "Twenty",
+            "Twenty-one",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "A certain number of people sit around a circular table and face towards the center of the table. Some of them like different colors. Three people sit between P and the one who likes Grey. The one who likes Orange sits third to the left of Q. The number of people sitting between P and Q is the same as the number of people sitting between Q and R. S sits third to the right of R who doesn\u2019t like Purple. Q sits second to the left of the one who likes Grey. Two people sit between S and the one who likes Purple. The one who likes Green sits fourth to the right of the one who likes Grey. Five people sit between T and the one who likes Black. S doesn\u2019t sit adjacent to the one who likes Black. Three people sit between R and the one who likes Black. The one who likes Pink sits third to the right of the one who likes Green. T doesn\u2019t sit adjacent to the one who likes Pink. U sits to the immediate left of the one who likes Black and third to the left of the one who likes Yellow. The one who likes Red sits second to the right of the one who likes Yellow. One person sits between the one who likes Green and T who is not a neighbour of S. The Same number of people sit between the one who likes Grey and V from both sides.",
+        "question": "Who amongst the following likes Yellow?",
+        "options": [
+            "R",
+            "V",
+            "U",
+            "S",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "A certain number of people sit around a circular table and face towards the center of the table. Some of them like different colors. Three people sit between P and the one who likes Grey. The one who likes Orange sits third to the left of Q. The number of people sitting between P and Q is the same as the number of people sitting between Q and R. S sits third to the right of R who doesn\u2019t like Purple. Q sits second to the left of the one who likes Grey. Two people sit between S and the one who likes Purple. The one who likes Green sits fourth to the right of the one who likes Grey. Five people sit between T and the one who likes Black. S doesn\u2019t sit adjacent to the one who likes Black. Three people sit between R and the one who likes Black. The one who likes Pink sits third to the right of the one who likes Green. T doesn\u2019t sit adjacent to the one who likes Pink. U sits to the immediate left of the one who likes Black and third to the left of the one who likes Yellow. The one who likes Red sits second to the right of the one who likes Yellow. One person sits between the one who likes Green and T who is not a neighbour of S. The Same number of people sit between the one who likes Grey and V from both sides.",
+        "question": "Who amongst the following sits eighth to the right of the one who likes Red?",
+        "options": [
+            "T",
+            "The one who likes Pink",
+            "The one who likes Grey",
+            "Q",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "A certain number of people sit around a circular table and face towards the center of the table. Some of them like different colors. Three people sit between P and the one who likes Grey. The one who likes Orange sits third to the left of Q. The number of people sitting between P and Q is the same as the number of people sitting between Q and R. S sits third to the right of R who doesn\u2019t like Purple. Q sits second to the left of the one who likes Grey. Two people sit between S and the one who likes Purple. The one who likes Green sits fourth to the right of the one who likes Grey. Five people sit between T and the one who likes Black. S doesn\u2019t sit adjacent to the one who likes Black. Three people sit between R and the one who likes Black. The one who likes Pink sits third to the right of the one who likes Green. T doesn\u2019t sit adjacent to the one who likes Pink. U sits to the immediate left of the one who likes Black and third to the left of the one who likes Yellow. The one who likes Red sits second to the right of the one who likes Yellow. One person sits between the one who likes Green and T who is not a neighbour of S. The Same number of people sit between the one who likes Grey and V from both sides.",
+        "question": "How many people sit between U and the one who likes Orange when counted from the right of U?",
+        "options": [
+            "Six",
+            "Eight",
+            "Five",
+            "Seven",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "A certain number of people sit around a circular table and face towards the center of the table. Some of them like different colors. Three people sit between P and the one who likes Grey. The one who likes Orange sits third to the left of Q. The number of people sitting between P and Q is the same as the number of people sitting between Q and R. S sits third to the right of R who doesn\u2019t like Purple. Q sits second to the left of the one who likes Grey. Two people sit between S and the one who likes Purple. The one who likes Green sits fourth to the right of the one who likes Grey. Five people sit between T and the one who likes Black. S doesn\u2019t sit adjacent to the one who likes Black. Three people sit between R and the one who likes Black. The one who likes Pink sits third to the right of the one who likes Green. T doesn\u2019t sit adjacent to the one who likes Pink. U sits to the immediate left of the one who likes Black and third to the left of the one who likes Yellow. The one who likes Red sits second to the right of the one who likes Yellow. One person sits between the one who likes Green and T who is not a neighbour of S. The Same number of people sit between the one who likes Grey and V from both sides.",
+        "question": "Which amongst the following pair is incorrect?",
+        "options": [
+            "T \u2013 Red",
+            "Q \u2013 Purple",
+            "P \u2013 Green",
+            "U \u2013 Pink",
+            "All are correct"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Eight persons \u2013 A, B, C, D, E, F, G, and H are sitting around a circular table, but not necessarily in the same order. Some of them are facing inside while the rest of them are facing outside. Each of them likes different engineering branches viz. Agriculture, Metallurgical, Automobile, Electrical, Marine, Petroleum, IT, and Aeronautics. F does not sit immediately next to A. Only two persons sit between G and H. Immediate left of A likes Metallurgical, who faces opposite to center. F and E are facing the same side and only two persons are sitting between them. The one who likes Petroleum sits immediately next to the one who likes IT but does not face the one who likes automobiles. E sits second to the left of A. The one who likes Marine faces the one who likes Aeronautics. D sits diagonally opposite B who sits to the immediate right of E and both E and B are facing the same direction. G is facing the same direction as E. The one who likes automobiles sits between F and B. F does not like Agriculture. A and C are facing outward direction but not as F. C sits second to the left of G. The one who likes Aeronautics sits second to the right of the one who likes automobiles. D is facing the same direction as F. G does not like automobiles. ",
+        "question": "Who among the following likes Electrical?",
+        "options": [
+            "C",
+            "B",
+            "A",
+            "H",
+            "F"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "Eight persons \u2013 A, B, C, D, E, F, G, and H are sitting around a circular table, but not necessarily in the same order. Some of them are facing inside while the rest of them are facing outside. Each of them likes different engineering branches viz. Agriculture, Metallurgical, Automobile, Electrical, Marine, Petroleum, IT, and Aeronautics. F does not sit immediately next to A. Only two persons sit between G and H. Immediate left of A likes Metallurgical, who faces opposite to center. F and E are facing the same side and only two persons are sitting between them. The one who likes Petroleum sits immediately next to the one who likes IT but does not face the one who likes automobiles. E sits second to the left of A. The one who likes Marine faces the one who likes Aeronautics. D sits diagonally opposite B who sits to the immediate right of E and both E and B are facing the same direction. G is facing the same direction as E. The one who likes automobiles sits between F and B. F does not like Agriculture. A and C are facing outward direction but not as F. C sits second to the left of G. The one who likes Aeronautics sits second to the right of the one who likes automobiles. D is facing the same direction as F. G does not like automobiles. ",
+        "question": "Who among the following sits between A and G?",
+        "options": [
+            "E",
+            "D",
+            "C",
+            "H",
+            "F"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Eight persons \u2013 A, B, C, D, E, F, G, and H are sitting around a circular table, but not necessarily in the same order. Some of them are facing inside while the rest of them are facing outside. Each of them likes different engineering branches viz. Agriculture, Metallurgical, Automobile, Electrical, Marine, Petroleum, IT, and Aeronautics. F does not sit immediately next to A. Only two persons sit between G and H. Immediate left of A likes Metallurgical, who faces opposite to center. F and E are facing the same side and only two persons are sitting between them. The one who likes Petroleum sits immediately next to the one who likes IT but does not face the one who likes automobiles. E sits second to the left of A. The one who likes Marine faces the one who likes Aeronautics. D sits diagonally opposite B who sits to the immediate right of E and both E and B are facing the same direction. G is facing the same direction as E. The one who likes automobiles sits between F and B. F does not like Agriculture. A and C are facing outward direction but not as F. C sits second to the left of G. The one who likes Aeronautics sits second to the right of the one who likes automobiles. D is facing the same direction as F. G does not like automobiles. ",
+        "question": "Which of the following is not true regarding the given arrangement?",
+        "options": [
+            "A sits immediately next to H.",
+            "G and C face the same direction.",
+            "D faces the person who likes Agriculture.",
+            "E and G sit opposite to each other.",
+            "All of the above."
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Eight persons \u2013 A, B, C, D, E, F, G, and H are sitting around a circular table, but not necessarily in the same order. Some of them are facing inside while the rest of them are facing outside. Each of them likes different engineering branches viz. Agriculture, Metallurgical, Automobile, Electrical, Marine, Petroleum, IT, and Aeronautics. F does not sit immediately next to A. Only two persons sit between G and H. Immediate left of A likes Metallurgical, who faces opposite to center. F and E are facing the same side and only two persons are sitting between them. The one who likes Petroleum sits immediately next to the one who likes IT but does not face the one who likes automobiles. E sits second to the left of A. The one who likes Marine faces the one who likes Aeronautics. D sits diagonally opposite B who sits to the immediate right of E and both E and B are facing the same direction. G is facing the same direction as E. The one who likes automobiles sits between F and B. F does not like Agriculture. A and C are facing outward direction but not as F. C sits second to the left of G. The one who likes Aeronautics sits second to the right of the one who likes automobiles. D is facing the same direction as F. G does not like automobiles. ",
+        "question": "Who among the following person faces the one who sits third to the left of D??",
+        "options": [
+            "A",
+            "D",
+            "E",
+            "G",
+            "Can\u2019t be determined"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Eight persons \u2013 A, B, C, D, E, F, G, and H are sitting around a circular table, but not necessarily in the same order. Some of them are facing inside while the rest of them are facing outside. Each of them likes different engineering branches viz. Agriculture, Metallurgical, Automobile, Electrical, Marine, Petroleum, IT, and Aeronautics. F does not sit immediately next to A. Only two persons sit between G and H. Immediate left of A likes Metallurgical, who faces opposite to center. F and E are facing the same side and only two persons are sitting between them. The one who likes Petroleum sits immediately next to the one who likes IT but does not face the one who likes automobiles. E sits second to the left of A. The one who likes Marine faces the one who likes Aeronautics. D sits diagonally opposite B who sits to the immediate right of E and both E and B are facing the same direction. G is facing the same direction as E. The one who likes automobiles sits between F and B. F does not like Agriculture. A and C are facing outward direction but not as F. C sits second to the left of G. The one who likes Aeronautics sits second to the right of the one who likes automobiles. D is facing the same direction as F. G does not like automobiles. ",
+        "question": "Four of the following are alike in a certain way and form a group. Which of the following does not belong to that group?",
+        "options": [
+            "F",
+            "D",
+            "H",
+            "E",
+            "B"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "In a row of 20 students facing North, R is 9th from the left end.",
+        "question": "How many students are there between R and S? ",
+        "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "There are six persons sitting in a row facing North. A is sitting towards immediate left of B and immediate right of C. C is sitting to immediate right of F. D is immediate right of E who is to the left of F",
+        "question": "then which two people are sitting in the centre?",
+        "options": [
+            "D and B",
+            "A and B",
+            "F and C",
+            "E and D"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "In a circular arrangement of 7 persons, A is sitting between B and C, D is sitting immediate right of C and E is sitting immediate left of A.",
+        "question": "Who is sitting between D and F? ",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "E"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "In a rectangular table, A, B, C, and D are sitting on one side facing E, F, G, and H on the other side. A is opposite to E and B is opposite to F.",
+        "question": "Who is opposite to D?",
+        "options": [
+            "G",
+            "H",
+            "E",
+            "F"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "There are 8 people sitting around a circular table. A is sitting second to the left of B who is third to the left of C. D is sitting between C and E, and F is sitting to the immediate right of E.",
+        "question": "Who is sitting to the immediate left of D?",
+        "options": [
+            "B",
+            "C",
+            "E",
+            "F"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Six friends \u2013 A, B, C, D, E, and F \u2013 are sitting in a straight line facing North. A is sitting fourth to the left of B and second to the right of F. D is sitting to the immediate left of C, who is not sitting at either of the ends.",
+        "question": "Who is sitting at the extreme right end of the line? ",
+        "options": [
+            "A",
+            "B",
+            "E",
+            "F"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "There are nine people \u2013 P, Q, R, S, T, U, V, W, and X \u2013 sitting in a circular table facing the center. P is sitting second to the left of S who is third to the left of W. X is sitting to the immediate left of P and to the immediate right of U.",
+        "question": "Who is sitting exactly between Q and V?",
+        "options": [
+            "P",
+            "R",
+            "S",
+            "T"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Seven people \u2013 A, B, C, D, E, F, and G \u2013 are sitting in a row facing North. A is sitting at one of the ends and D is sitting fifth to the right of A. E is sitting to the immediate right of B who is sitting second to the left of F.",
+        "question": "Who is sitting second to the left of G?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "In a rectangular table, eight friends \u2013 A, B, C, D, E, F, G, and H \u2013 are sitting around facing the center. A is sitting opposite to D who is sitting third to the right of B. F is sitting to the immediate right of A and to the immediate left of G.",
+        "question": "Who is sitting opposite to G? ",
+        "options": [
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Six people \u2013 P, Q, R, S, T, and U \u2013 are sitting in a circular table facing the center. P is sitting third to the left of Q and to the immediate right of T. R is sitting to the immediate left of S who is not sitting next to P.",
+        "question": "Who is sitting to the immediate right of Q?",
+        "options": [
+            "R",
+            "S",
+            "T",
+            "U"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Nine persons Anu, Bablu, Cheenu, Dona, Esha, Faria, Gaurav, Harish and Ishita are sitting in a row and all are facing north. It is known that Cheenu sits exactly in the middle and there is no person to the right of Ishita. Dona is fourth to the right of Faria. Gaurav and Harish are sitting next to each other. Esha is the neighbor of Dona but not of Cheenu. Harish doesn't sit at any extreme corner. Dona is not sitting adjacent to either Cheenu or Ishita. Anu is second to the right of Harish.",
+        "question": "Who is sitting to the immediate left of Cheenu?",
+        "options": [
+            "Faria",
+            "Anu",
+            "Harish",
+            "Dona",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Nine persons Anu, Bablu, Cheenu, Dona, Esha, Faria, Gaurav, Harish and Ishita are sitting in a row and all are facing north. It is known that Cheenu sits exactly in the middle and there is no person to the right of Ishita. Dona is fourth to the right of Faria. Gaurav and Harish are sitting next to each other. Esha is the neighbor of Dona but not of Cheenu. Harish doesn't sit at any extreme corner. Dona is not sitting adjacent to either Cheenu or Ishita. Anu is second to the right of Harish.",
+        "question": "Who is sitting between Bablu and Esha?",
+        "options": [
+            "Dona",
+            "Faria",
+            "Gaurav",
+            "Cheenu",
+            "None of these"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Nine persons Anu, Bablu, Cheenu, Dona, Esha, Faria, Gaurav, Harish and Ishita are sitting in a row and all are facing north. It is known that Cheenu sits exactly in the middle and there is no person to the right of Ishita. Dona is fourth to the right of Faria. Gaurav and Harish are sitting next to each other. Esha is the neighbor of Dona but not of Cheenu. Harish doesn't sit at any extreme corner. Dona is not sitting adjacent to either Cheenu or Ishita. Anu is second to the right of Harish.",
+        "question": "Four of the following five are alike in a certain way and thus form a group. Which of the following does not belong to that group?",
+        "options": [
+            "Gaurav and Harish",
+            "Cheenu and Bablu",
+            "Faria and Gaurav",
+            "Dona and Esha",
+            "Esha and Ishita"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Nine persons Anu, Bablu, Cheenu, Dona, Esha, Faria, Gaurav, Harish and Ishita are sitting in a row and all are facing north. It is known that Cheenu sits exactly in the middle and there is no person to the right of Ishita. Dona is fourth to the right of Faria. Gaurav and Harish are sitting next to each other. Esha is the neighbor of Dona but not of Cheenu. Harish doesn't sit at any extreme corner. Dona is not sitting adjacent to either Cheenu or Ishita. Anu is second to the right of Harish.",
+        "question": "Who is sitting third to the right of Harish?",
+        "options": [
+            "Bablu",
+            "Dona",
+            "Faria",
+            "Cheenu",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Nine persons Anu, Bablu, Cheenu, Dona, Esha, Faria, Gaurav, Harish and Ishita are sitting in a row and all are facing north. It is known that Cheenu sits exactly in the middle and there is no person to the right of Ishita. Dona is fourth to the right of Faria. Gaurav and Harish are sitting next to each other. Esha is the neighbor of Dona but not of Cheenu. Harish doesn't sit at any extreme corner. Dona is not sitting adjacent to either Cheenu or Ishita. Anu is second to the right of Harish.",
+        "question": "Who is sitting at the leftmost seat of the row?",
+        "options": [
+            "Faria",
+            "Bablu",
+            "Gaurav",
+            "Dona",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "L, M, N, O, P, Q, R and S are sitting around a circular table facing the centre but not necessarily in the same order. They all are having discussion on an important topic. N is an immediate neighbor of both L and R, who is an immediate neighbour of P. P sits second to the left of N. Only two persons sit between P and S. M is an immediate neighbor of O. Only one person sits between M and Q.",
+        "question": "What is the position of O with respect to S in the above arrangement?",
+        "options": [
+            "Third to the left",
+            "Immediate left",
+            "Second to the right",
+            "Immediate right",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "L, M, N, O, P, Q, R and S are sitting around a circular table facing the centre but not necessarily in the same order. They all are having discussion on an important topic. N is an immediate neighbor of both L and R, who is an immediate neighbour of P. P sits second to the left of N. Only two persons sit between P and S. M is an immediate neighbor of O. Only one person sits between M and Q.",
+        "question": "Four of the following five are alike in a certain way and thus form a group. Which is the one that does not belong to that group?",
+        "options": [
+            "MS",
+            "QL",
+            "NM",
+            "RP",
+            "OM"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "L, M, N, O, P, Q, R and S are sitting around a circular table facing the centre but not necessarily in the same order. They all are having discussion on an important topic. N is an immediate neighbor of both L and R, who is an immediate neighbour of P. P sits second to the left of N. Only two persons sit between P and S. M is an immediate neighbor of O. Only one person sits between M and Q.",
+        "question": "Who among the following sits second to the left of the one who is on the immediate right of O?",
+        "options": [
+            "Q",
+            "M",
+            "O",
+            "S",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "L, M, N, O, P, Q, R and S are sitting around a circular table facing the centre but not necessarily in the same order. They all are having discussion on an important topic. N is an immediate neighbor of both L and R, who is an immediate neighbour of P. P sits second to the left of N. Only two persons sit between P and S. M is an immediate neighbor of O. Only one person sits between M and Q.",
+        "question": "Which of the following persons sits between M and Q?",
+        "options": [
+            "O",
+            "L",
+            "N",
+            "S",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "L, M, N, O, P, Q, R and S are sitting around a circular table facing the centre but not necessarily in the same order. They all are having discussion on an important topic. N is an immediate neighbor of both L and R, who is an immediate neighbour of P. P sits second to the left of N. Only two persons sit between P and S. M is an immediate neighbor of O. Only one person sits between M and Q.",
+        "question": "Who among the following sits third to right of the one who sits opposite of N?",
+        "options": [
+            "L",
+            "S",
+            "R",
+            "O",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "There are eight persons - Mita, Niya, Om, Pari, Qiya, Rati, Shri, and Tiya. All of them are sitting in a straight row and are facing in the South direction but not necessarily in the same order. There are only two persons between Rati and Pari. The number of persons between Qiya and Mita is the same as the number of persons between Pari and Shri. Om is not a neighbor of Shri who is immediately left of Niya. Qiya is second to the left of Rati who is fourth from the right corner. Mita sits at any corner of the row. Tiya sits immediately right of Qiya.",
+        "question": "How many persons are seated to the left of Niya?",
+        "options": [
+            "One",
+            "Three",
+            "Four",
+            "Six",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "There are eight persons - Mita, Niya, Om, Pari, Qiya, Rati, Shri, and Tiya. All of them are sitting in a straight row and are facing in the South direction but not necessarily in the same order. There are only two persons between Rati and Pari. The number of persons between Qiya and Mita is the same as the number of persons between Pari and Shri. Om is not a neighbor of Shri who is immediately left of Niya. Qiya is second to the left of Rati who is fourth from the right corner. Mita sits at any corner of the row. Tiya sits immediately right of Qiya.",
+        "question": "Four of the following five are alike in some way and thus form a group. Which of the following does not belong to the group?",
+        "options": [
+            "Om",
+            "Rati",
+            "Shri",
+            "Qiya",
+            "Pari"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "There are eight persons - Mita, Niya, Om, Pari, Qiya, Rati, Shri, and Tiya. All of them are sitting in a straight row and are facing in the South direction but not necessarily in the same order. There are only two persons between Rati and Pari. The number of persons between Qiya and Mita is the same as the number of persons between Pari and Shri. Om is not a neighbor of Shri who is immediately left of Niya. Qiya is second to the left of Rati who is fourth from the right corner. Mita sits at any corner of the row. Tiya sits immediately right of Qiya.",
+        "question": "Who among the following is/are immediate neighbour(s) of Qiya?",
+        "options": [
+            "Tiya",
+            "Om",
+            "Both A and B",
+            "Either A or B",
+            "Shri"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "There are eight persons - Mita, Niya, Om, Pari, Qiya, Rati, Shri, and Tiya. All of them are sitting in a straight row and are facing in the South direction but not necessarily in the same order. There are only two persons between Rati and Pari. The number of persons between Qiya and Mita is the same as the number of persons between Pari and Shri. Om is not a neighbor of Shri who is immediately left of Niya. Qiya is second to the left of Rati who is fourth from the right corner. Mita sits at any corner of the row. Tiya sits immediately right of Qiya.",
+        "question": "Who among the following sits second to the left of the person who sits third from the right end?",
+        "options": [
+            "Mita",
+            "Tiya",
+            "Pari",
+            "Niya",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "There are eight persons - Mita, Niya, Om, Pari, Qiya, Rati, Shri, and Tiya. All of them are sitting in a straight row and are facing in the South direction but not necessarily in the same order. There are only two persons between Rati and Pari. The number of persons between Qiya and Mita is the same as the number of persons between Pari and Shri. Om is not a neighbor of Shri who is immediately left of Niya. Qiya is second to the left of Rati who is fourth from the right corner. Mita sits at any corner of the row. Tiya sits immediately right of Qiya.",
+        "question": "Who among the following sits third to the left of Rati?",
+        "options": [
+            "Om",
+            "Pari",
+            "Niya",
+            "Mita",
+            "None of these"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Eight persons \u2013 Amar, Ansh, Arun, Amit, Ashu, Anup, Arif, and Anil, are sitting around a circular table facing the centre but not necessarily in the same order. Arif is to the immediate left of Ashu. Anup is to the immediate left of Arun. Amar is the neighbor of Ansh. Amit is between Anup and Ansh. Arif is not the neighbor of Ansh or Anil.",
+        "question": "Who among the following is sitting third to the right of Amar?",
+        "options": [
+            "Arif",
+            "Anup",
+            "Arun",
+            "Ansh",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Eight persons \u2013 Amar, Ansh, Arun, Amit, Ashu, Anup, Arif, and Anil, are sitting around a circular table facing the centre but not necessarily in the same order. Arif is to the immediate left of Ashu. Anup is to the immediate left of Arun. Amar is the neighbor of Ansh. Amit is between Anup and Ansh. Arif is not the neighbor of Ansh or Anil.",
+        "question": "How many persons were sitting between Amit and Anil, when counted from the left of Anil?",
+        "options": [
+            "None",
+            "One",
+            "Two",
+            "Three",
+            "More than three"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "Eight persons \u2013 Amar, Ansh, Arun, Amit, Ashu, Anup, Arif, and Anil, are sitting around a circular table facing the centre but not necessarily in the same order. Arif is to the immediate left of Ashu. Anup is to the immediate left of Arun. Amar is the neighbor of Ansh. Amit is between Anup and Ansh. Arif is not the neighbor of Ansh or Anil.",
+        "question": "What is the position of Arif with respect to Amit?",
+        "options": [
+            "Third to the right",
+            "Second to the left",
+            "Fourth to the right",
+            "Fourth to the left",
+            "None of these"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Eight persons \u2013 Amar, Ansh, Arun, Amit, Ashu, Anup, Arif, and Anil, are sitting around a circular table facing the centre but not necessarily in the same order. Arif is to the immediate left of Ashu. Anup is to the immediate left of Arun. Amar is the neighbor of Ansh. Amit is between Anup and Ansh. Arif is not the neighbor of Ansh or Anil.",
+        "question": "Which of the following persons sits opposite to the one who sits third to the left of Anil?",
+        "options": [
+            "Anup",
+            "Arif",
+            "Amar",
+            "Arun",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Eight persons \u2013 Amar, Ansh, Arun, Amit, Ashu, Anup, Arif, and Anil, are sitting around a circular table facing the centre but not necessarily in the same order. Arif is to the immediate left of Ashu. Anup is to the immediate left of Arun. Amar is the neighbor of Ansh. Amit is between Anup and Ansh. Arif is not the neighbor of Ansh or Anil.",
+        "question": "Which of the following pairs of persons is sitting adjacent to Arif?",
+        "options": [
+            "Anil, Ashu",
+            "Amit, Arun",
+            "Anup, Ashu",
+            "Arun, Ashu",
+            "Arun, Anil"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Eight persons namely J to Q are sitting on the square table but not necessarily in the same order. Four persons are sitting at the corner of the table and facing away from the center. Four persons are sitting at the middle of the table and facing towards the center. The persons are sitting at the corner of the table likes different fruits among Banana, Apple, Grapes, and Mango. The persons are sitting at the middle of the table likes different vegetables among Cucumber, Brinjal, Beans, and Cabbage. All the above information is not necessarily in the same order. K sits third to the right of O. One person sits between K and Q. One who likes Beans sits third to the left of Q. One who sits second to the right of the one who likes Beans is facing N. One who likes Cabbage sits second to the right of the one who likes Cucumber. The person J is the immediate neighbor of the one who like Brinjal and O. There are as many persons sit between P and M as between P and L. One who likes Mango sits third to the right of M. One who likes Beans and one who likes Mango are not immediate neighbors. J likes Banana. L and one who like Apple are not immediate neighbors.",
+        "question": "What is the position of N with respect to the one who likes Banana?",
+        "options": [
+            "Third to the right",
+            "Second to the left",
+            "Second to the right",
+            "Immediate left",
+            "None of these"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Eight persons namely J to Q are sitting on the square table but not necessarily in the same order. Four persons are sitting at the corner of the table and facing away from the center. Four persons are sitting at the middle of the table and facing towards the center. The persons are sitting at the corner of the table likes different fruits among Banana, Apple, Grapes, and Mango. The persons are sitting at the middle of the table likes different vegetables among Cucumber, Brinjal, Beans, and Cabbage. All the above information is not necessarily in the same order. K sits third to the right of O. One person sits between K and Q. One who likes Beans sits third to the left of Q. One who sits second to the right of the one who likes Beans is facing N. One who likes Cabbage sits second to the right of the one who likes Cucumber. The person J is the immediate neighbor of the one who like Brinjal and O. There are as many persons sit between P and M as between P and L. One who likes Mango sits third to the right of M. One who likes Beans and one who likes Mango are not immediate neighbors. J likes Banana. L and one who like Apple are not immediate neighbors.",
+        "question": "Who among the following likes Grapes?",
+        "options": [
+            "M",
+            "Q",
+            "K",
+            "N",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Eight persons namely J to Q are sitting on the square table but not necessarily in the same order. Four persons are sitting at the corner of the table and facing away from the center. Four persons are sitting at the middle of the table and facing towards the center. The persons are sitting at the corner of the table likes different fruits among Banana, Apple, Grapes, and Mango. The persons are sitting at the middle of the table likes different vegetables among Cucumber, Brinjal, Beans, and Cabbage. All the above information is not necessarily in the same order. K sits third to the right of O. One person sits between K and Q. One who likes Beans sits third to the left of Q. One who sits second to the right of the one who likes Beans is facing N. One who likes Cabbage sits second to the right of the one who likes Cucumber. The person J is the immediate neighbor of the one who like Brinjal and O. There are as many persons sit between P and M as between P and L. One who likes Mango sits third to the right of M. One who likes Beans and one who likes Mango are not immediate neighbors. J likes Banana. L and one who like Apple are not immediate neighbors.",
+        "question": "Who among the following person sit opposite to O?",
+        "options": [
+            "The one who likes Mango",
+            "The one who likes Grapes",
+            "The one who likes Cucumber",
+            "The one who likes Cabbage",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Eight persons namely J to Q are sitting on the square table but not necessarily in the same order. Four persons are sitting at the corner of the table and facing away from the center. Four persons are sitting at the middle of the table and facing towards the center. The persons are sitting at the corner of the table likes different fruits among Banana, Apple, Grapes, and Mango. The persons are sitting at the middle of the table likes different vegetables among Cucumber, Brinjal, Beans, and Cabbage. All the above information is not necessarily in the same order. K sits third to the right of O. One person sits between K and Q. One who likes Beans sits third to the left of Q. One who sits second to the right of the one who likes Beans is facing N. One who likes Cabbage sits second to the right of the one who likes Cucumber. The person J is the immediate neighbor of the one who like Brinjal and O. There are as many persons sit between P and M as between P and L. One who likes Mango sits third to the right of M. One who likes Beans and one who likes Mango are not immediate neighbors. J likes Banana. L and one who like Apple are not immediate neighbors.",
+        "question": "Which among the following combination is true?",
+        "options": [
+            "K-Mango",
+            "M-Apple",
+            "N-Banana",
+            "L-Grapes",
+            "None is true"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "Eight students Aadvik, Tanish, Jiral, Vaibhav, Yashith, Bhavin, Rithwik and Kiansh sit in a square table. Four persons sit in each corner of the table and four persons sit in each side of the table but not necessarily in the same order. All are facing outside. Aadvik is the immediate neighbor of Kiansh. Bhavin does not sit third to the left of Tanish who doesn\u2019t sit at the corner. Bhavin sits fourth to the right of Yashith. There are three persons sit between Tanish and Jiral. Jiral sits third to the left of Vaibhav. One person sits between Jiral and Kiansh. Rithwik and Kiansh are not immediate neighbors.",
+        "question": "Four of the following five are alike in a certain way and hence form a group. Which of the following does not belong to the group?",
+        "options": [
+            "Aadvik",
+            "Vaibhav",
+            "Bhavin",
+            "Yashith",
+            "Rithwik"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "Eight students Aadvik, Tanish, Jiral, Vaibhav, Yashith, Bhavin, Rithwik and Kiansh sit in a square table. Four persons sit in each corner of the table and four persons sit in each side of the table but not necessarily in the same order. All are facing outside. Aadvik is the immediate neighbor of Kiansh. Bhavin does not sit third to the left of Tanish who doesn\u2019t sit at the corner. Bhavin sits fourth to the right of Yashith. There are three persons sit between Tanish and Jiral. Jiral sits third to the left of Vaibhav. One person sits between Jiral and Kiansh. Rithwik and Kiansh are not immediate neighbors.",
+        "question": "Tanish is related to Kiansh in a certain way, Bhavin is related to Aadvik then in the same way Jiral is related to which among the following?",
+        "options": [
+            "Rithwik",
+            "Tanish",
+            "Vaibhav",
+            "Bhavin",
+            "Aadvik"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Eight students Aadvik, Tanish, Jiral, Vaibhav, Yashith, Bhavin, Rithwik and Kiansh sit in a square table. Four persons sit in each corner of the table and four persons sit in each side of the table but not necessarily in the same order. All are facing outside. Aadvik is the immediate neighbor of Kiansh. Bhavin does not sit third to the left of Tanish who doesn\u2019t sit at the corner. Bhavin sits fourth to the right of Yashith. There are three persons sit between Tanish and Jiral. Jiral sits third to the left of Vaibhav. One person sits between Jiral and Kiansh. Rithwik and Kiansh are not immediate neighbors.",
+        "question": "Who among the following sits fifth to the right of Kiansh and immediate right of Rithwik?",
+        "options": [
+            "Aadvik and Vaibhav",
+            "Only Bhavin",
+            "Vaibhav and Yashith",
+            "Tanish and Yashith",
+            "Only Vaibhav"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "Eight students Aadvik, Tanish, Jiral, Vaibhav, Yashith, Bhavin, Rithwik and Kiansh sit in a square table. Four persons sit in each corner of the table and four persons sit in each side of the table but not necessarily in the same order. All are facing outside. Aadvik is the immediate neighbor of Kiansh. Bhavin does not sit third to the left of Tanish who doesn\u2019t sit at the corner. Bhavin sits fourth to the right of Yashith. There are three persons sit between Tanish and Jiral. Jiral sits third to the left of Vaibhav. One person sits between Jiral and Kiansh. Rithwik and Kiansh are not immediate neighbors.",
+        "question": "Which of the following person sits between Jiral and Kiansh?",
+        "options": [
+            "Tanish",
+            "Rithwik",
+            "Aadvik",
+            "None",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Eight students Aadvik, Tanish, Jiral, Vaibhav, Yashith, Bhavin, Rithwik and Kiansh sit in a square table. Four persons sit in each corner of the table and four persons sit in each side of the table but not necessarily in the same order. All are facing outside. Aadvik is the immediate neighbor of Kiansh. Bhavin does not sit third to the left of Tanish who doesn\u2019t sit at the corner. Bhavin sits fourth to the right of Yashith. There are three persons sit between Tanish and Jiral. Jiral sits third to the left of Vaibhav. One person sits between Jiral and Kiansh. Rithwik and Kiansh are not immediate neighbors.",
+        "question": "Which of the following person sits opposite to the one who sits second to the right of Rithwik?",
+        "options": [
+            "Bhavin",
+            "Jiral",
+            "Tanish",
+            "Yashith",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Some persons are sitting in a row facing north. Hina sits second to the right of Mera. Desh sits fifth to the left of Fany. Pinu is second to the right of Rani. Hina and Asha have three persons between them. Desh and Rani have two persons between them. No one sits between Asha and Fany. The number of persons towards the right of Asha is one less than the number of persons sitting between Pinu and Asha. The number of persons towards the left of Rani is equal to the number of persons sitting between Fany and Hina.",
+        "question": "How many persons were sitting in the row?",
+        "options": [
+            "17",
+            "20",
+            "16",
+            "19",
+            "22"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Some persons are sitting in a row facing north. Hina sits second to the right of Mera. Desh sits fifth to the left of Fany. Pinu is second to the right of Rani. Hina and Asha have three persons between them. Desh and Rani have two persons between them. No one sits between Asha and Fany. The number of persons towards the right of Asha is one less than the number of persons sitting between Pinu and Asha. The number of persons towards the left of Rani is equal to the number of persons sitting between Fany and Hina.",
+        "question": "How many persons were sitting between Pinu and Asha?",
+        "options": [
+            "Three",
+            "Five",
+            "Seven",
+            "Eight",
+            "Six"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "Some persons are sitting in a row facing north. Hina sits second to the right of Mera. Desh sits fifth to the left of Fany. Pinu is second to the right of Rani. Hina and Asha have three persons between them. Desh and Rani have two persons between them. No one sits between Asha and Fany. The number of persons towards the right of Asha is one less than the number of persons sitting between Pinu and Asha. The number of persons towards the left of Rani is equal to the number of persons sitting between Fany and Hina.",
+        "question": "What is the position of Fany with respect to Hina?",
+        "options": [
+            "Third to the left",
+            "Fourth to the left",
+            "Fifth to the left",
+            "Sixth to the left",
+            "Can\u2019t be determined"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Some persons are sitting in a row facing north. Hina sits second to the right of Mera. Desh sits fifth to the left of Fany. Pinu is second to the right of Rani. Hina and Asha have three persons between them. Desh and Rani have two persons between them. No one sits between Asha and Fany. The number of persons towards the right of Asha is one less than the number of persons sitting between Pinu and Asha. The number of persons towards the left of Rani is equal to the number of persons sitting between Fany and Hina.",
+        "question": "What is the total number of persons that were sitting on the right of Hina and on the left of Rani?",
+        "options": [
+            "5",
+            "8",
+            "10",
+            "11",
+            "Can\u2019t be determined"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Some persons are sitting in a row facing north. Hina sits second to the right of Mera. Desh sits fifth to the left of Fany. Pinu is second to the right of Rani. Hina and Asha have three persons between them. Desh and Rani have two persons between them. No one sits between Asha and Fany. The number of persons towards the right of Asha is one less than the number of persons sitting between Pinu and Asha. The number of persons towards the left of Rani is equal to the number of persons sitting between Fany and Hina.",
+        "question": "If Riya is sitting in the middle of the row then how many persons were sitting between Riya and Rani?",
+        "options": [
+            "5",
+            "7",
+            "6",
+            "8",
+            "4"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "Eight persons \u2013 Doly, Lali, Mona, Joya, Pinu, Usha, Chaya and Tara, are sitting in a straight line but not necessarily in the same order such that some of these persons are facing south while some are facing north. Doly faces north. Mona sits third to the left of Usha. Pinu sits third to the right of Mona. Joya sits to the immediate right of Pinu. Joya does not sit at any of the extreme ends of the line. Only one person sits between Chaya and Lali. Pinu sits second to the left of Chaya. Tara sits second to the right of Joya. Both the immediate neighbours of Mona face the opposite direction. Tara faces the same direction as Joya and Doly faces the same direction as Chaya. Usha sits at one of the extreme ends of the line.",
+        "question": "Who among the following is sitting second to the right of Mona?",
+        "options": [
+            "Doly",
+            "Usha",
+            "Pinu",
+            "Joya",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Eight persons \u2013 Doly, Lali, Mona, Joya, Pinu, Usha, Chaya and Tara, are sitting in a straight line but not necessarily in the same order such that some of these persons are facing south while some are facing north. Doly faces north. Mona sits third to the left of Usha. Pinu sits third to the right of Mona. Joya sits to the immediate right of Pinu. Joya does not sit at any of the extreme ends of the line. Only one person sits between Chaya and Lali. Pinu sits second to the left of Chaya. Tara sits second to the right of Joya. Both the immediate neighbours of Mona face the opposite direction. Tara faces the same direction as Joya and Doly faces the same direction as Chaya. Usha sits at one of the extreme ends of the line.",
+        "question": "Four of the following five are alike in some way and hence form a group. Which of the following is the one that does not belong to the group?",
+        "options": [
+            "Tara",
+            "Usha",
+            "Mona",
+            "Lali",
+            "Joya"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Eight persons \u2013 Doly, Lali, Mona, Joya, Pinu, Usha, Chaya and Tara, are sitting in a straight line but not necessarily in the same order such that some of these persons are facing south while some are facing north. Doly faces north. Mona sits third to the left of Usha. Pinu sits third to the right of Mona. Joya sits to the immediate right of Pinu. Joya does not sit at any of the extreme ends of the line. Only one person sits between Chaya and Lali. Pinu sits second to the left of Chaya. Tara sits second to the right of Joya. Both the immediate neighbours of Mona face the opposite direction. Tara faces the same direction as Joya and Doly faces the same direction as Chaya. Usha sits at one of the extreme ends of the line.",
+        "question": "How many person(s) sit between Joya and Doly?",
+        "options": [
+            "Three",
+            "Two",
+            "One",
+            "None",
+            "More than three"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Eight persons \u2013 Doly, Lali, Mona, Joya, Pinu, Usha, Chaya and Tara, are sitting in a straight line but not necessarily in the same order such that some of these persons are facing south while some are facing north. Doly faces north. Mona sits third to the left of Usha. Pinu sits third to the right of Mona. Joya sits to the immediate right of Pinu. Joya does not sit at any of the extreme ends of the line. Only one person sits between Chaya and Lali. Pinu sits second to the left of Chaya. Tara sits second to the right of Joya. Both the immediate neighbours of Mona face the opposite direction. Tara faces the same direction as Joya and Doly faces the same direction as Chaya. Usha sits at one of the extreme ends of the line.",
+        "question": "How many persons are facing north direction?",
+        "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Five",
+            "Six"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Eight persons \u2013 Doly, Lali, Mona, Joya, Pinu, Usha, Chaya and Tara, are sitting in a straight line but not necessarily in the same order such that some of these persons are facing south while some are facing north. Doly faces north. Mona sits third to the left of Usha. Pinu sits third to the right of Mona. Joya sits to the immediate right of Pinu. Joya does not sit at any of the extreme ends of the line. Only one person sits between Chaya and Lali. Pinu sits second to the left of Chaya. Tara sits second to the right of Joya. Both the immediate neighbours of Mona face the opposite direction. Tara faces the same direction as Joya and Doly faces the same direction as Chaya. Usha sits at one of the extreme ends of the line.",
+        "question": "Who among the following is sitting third to the left of Lali?",
+        "options": [
+            "Usha",
+            "Joya",
+            "Chaya",
+            "No one",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Eight persons \u2013 Doly, Lali, Mona, Joya, Pinu, Usha, Chaya and Tara, are sitting in a straight line but not necessarily in the same order such that some of these persons are facing south while some are facing north. Doly faces north. Mona sits third to the left of Usha. Pinu sits third to the right of Mona. Joya sits to the immediate right of Pinu. Joya does not sit at any of the extreme ends of the line. Only one person sits between Chaya and Lali. Pinu sits second to the left of Chaya. Tara sits second to the right of Joya. Both the immediate neighbours of Mona face the opposite direction. Tara faces the same direction as Joya and Doly faces the same direction as Chaya. Usha sits at one of the extreme ends of the line.",
+        "question": "Who among the following is sitting second to the right of Mona?",
+        "options": [
+            "Doly",
+            "Usha",
+            "Pinu",
+            "Joya",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Eight persons \u2013 Doly, Lali, Mona, Joya, Pinu, Usha, Chaya and Tara, are sitting in a straight line but not necessarily in the same order such that some of these persons are facing south while some are facing north. Doly faces north. Mona sits third to the left of Usha. Pinu sits third to the right of Mona. Joya sits to the immediate right of Pinu. Joya does not sit at any of the extreme ends of the line. Only one person sits between Chaya and Lali. Pinu sits second to the left of Chaya. Tara sits second to the right of Joya. Both the immediate neighbours of Mona face the opposite direction. Tara faces the same direction as Joya and Doly faces the same direction as Chaya. Usha sits at one of the extreme ends of the line.",
+        "question": "Four of the following five are alike in some way and hence form a group. Which of the following is the one that does not belong to the group?",
+        "options": [
+            "Tara",
+            "Usha",
+            "Mona",
+            "Lali",
+            "Joya"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Eight persons \u2013 Doly, Lali, Mona, Joya, Pinu, Usha, Chaya and Tara, are sitting in a straight line but not necessarily in the same order such that some of these persons are facing south while some are facing north. Doly faces north. Mona sits third to the left of Usha. Pinu sits third to the right of Mona. Joya sits to the immediate right of Pinu. Joya does not sit at any of the extreme ends of the line. Only one person sits between Chaya and Lali. Pinu sits second to the left of Chaya. Tara sits second to the right of Joya. Both the immediate neighbours of Mona face the opposite direction. Tara faces the same direction as Joya and Doly faces the same direction as Chaya. Usha sits at one of the extreme ends of the line.",
+        "question": "How many person(s) sit between Joya and Doly?",
+        "options": [
+            "Three",
+            "Two",
+            "One",
+            "None",
+            "More than three"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Eight persons \u2013 Doly, Lali, Mona, Joya, Pinu, Usha, Chaya and Tara, are sitting in a straight line but not necessarily in the same order such that some of these persons are facing south while some are facing north. Doly faces north. Mona sits third to the left of Usha. Pinu sits third to the right of Mona. Joya sits to the immediate right of Pinu. Joya does not sit at any of the extreme ends of the line. Only one person sits between Chaya and Lali. Pinu sits second to the left of Chaya. Tara sits second to the right of Joya. Both the immediate neighbours of Mona face the opposite direction. Tara faces the same direction as Joya and Doly faces the same direction as Chaya. Usha sits at one of the extreme ends of the line.",
+        "question": "How many persons are facing north direction?",
+        "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Five",
+            "Six"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Eight persons \u2013 Doly, Lali, Mona, Joya, Pinu, Usha, Chaya and Tara, are sitting in a straight line but not necessarily in the same order such that some of these persons are facing south while some are facing north. Doly faces north. Mona sits third to the left of Usha. Pinu sits third to the right of Mona. Joya sits to the immediate right of Pinu. Joya does not sit at any of the extreme ends of the line. Only one person sits between Chaya and Lali. Pinu sits second to the left of Chaya. Tara sits second to the right of Joya. Both the immediate neighbours of Mona face the opposite direction. Tara faces the same direction as Joya and Doly faces the same direction as Chaya. Usha sits at one of the extreme ends of the line.",
+        "question": "Who among the following is sitting third to the left of Lali?",
+        "options": [
+            "Usha",
+            "Joya",
+            "Chaya",
+            "No one",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Twelve persons are sitting in two parallel rows in such a way that the persons sitting in Row-1 faces the persons sitting in Row-2. Six persons A to F are sitting in Row-1 and facing north direction. Six persons P to U are sitting in Row-2 and facing south direction. All the above information is not necessarily in the same order. E sits second to the right of F. Two persons sit between F and B, who is facing R. Q and R are immediate neighbors. U sits second to the left of Q. The person who sits second to the right of P is facing C. More than one person sits between F and D. T does not sit at the extreme end of the line.",
+        "question": "Who among the following person sits third to the right of R?",
+        "options": [
+            "S",
+            "P",
+            "Q",
+            "U",
+            "None of these"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "Twelve persons are sitting in two parallel rows in such a way that the persons sitting in Row-1 faces the persons sitting in Row-2. Six persons A to F are sitting in Row-1 and facing north direction. Six persons P to U are sitting in Row-2 and facing south direction. All the above information is not necessarily in the same order. E sits second to the right of F. Two persons sit between F and B, who is facing R. Q and R are immediate neighbors. U sits second to the left of Q. The person who sits second to the right of P is facing C. More than one person sits between F and D. T does not sit at the extreme end of the line.",
+        "question": "How many persons sit between C and A?",
+        "options": [
+            "One",
+            "None",
+            "Two",
+            "Three",
+            "None of the above"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Twelve persons are sitting in two parallel rows in such a way that the persons sitting in Row-1 faces the persons sitting in Row-2. Six persons A to F are sitting in Row-1 and facing north direction. Six persons P to U are sitting in Row-2 and facing south direction. All the above information is not necessarily in the same order. E sits second to the right of F. Two persons sit between F and B, who is facing R. Q and R are immediate neighbors. U sits second to the left of Q. The person who sits second to the right of P is facing C. More than one person sits between F and D. T does not sit at the extreme end of the line.",
+        "question": "If only Row-1 persons arranged in alphabetical order from left to right, then who among the following faces Q?",
+        "options": [
+            "E",
+            "C",
+            "D",
+            "F",
+            "A"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Twelve persons are sitting in two parallel rows in such a way that the persons sitting in Row-1 faces the persons sitting in Row-2. Six persons A to F are sitting in Row-1 and facing north direction. Six persons P to U are sitting in Row-2 and facing south direction. All the above information is not necessarily in the same order. E sits second to the right of F. Two persons sit between F and B, who is facing R. Q and R are immediate neighbors. U sits second to the left of Q. The person who sits second to the right of P is facing C. More than one person sits between F and D. T does not sit at the extreme end of the line.",
+        "question": "If S is related to P, Q is related to U, then in the same manner E is related to ________.",
+        "options": [
+            "B",
+            "C",
+            "F",
+            "D",
+            "A"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Twelve persons are sitting in two parallel rows in such a way that the persons sitting in Row-1 faces the persons sitting in Row-2. Six persons A to F are sitting in Row-1 and facing north direction. Six persons P to U are sitting in Row-2 and facing south direction. All the above information is not necessarily in the same order. E sits second to the right of F. Two persons sit between F and B, who is facing R. Q and R are immediate neighbors. U sits second to the left of Q. The person who sits second to the right of P is facing C. More than one person sits between F and D. T does not sit at the extreme end of the line.",
+        "question": "Who among the following is sitting diagonally opposite to C?",
+        "options": [
+            "P",
+            "Q",
+            "R",
+            "T",
+            "U"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "Eight persons \u2013 Mona, Moti, Meera, Mali, Mitra, Mansi, Megha and Mrig, were sitting in a circle facing towards the center. Each of them was born in a different city \u2014 Shimla, Manali, Agra, Nanital, Pune, Goa, Mumbai and Delhi, but not necessarily in the same order. Two persons were sitting between the one, who was born in Nanital and Mitra. Mona was born in Shimla and sits opposite to Mitra. The one, who was born in Pune, sits opposite to Mali. Mrig was born in Mumbai and sits second to the right of the one, who was born in Nanital. Meera was born in Pune and was an immediate neighbor of the one, who was born in Goa. Megha sits third right to Moti. Mali was born in Nanital. The one, who was born in Delhi, sits adjacent to the one, who was born in Nanital. Mitra was born in Manali and Megha was born in Delhi.",
+        "question": "Mansi was born in which of the following cities?",
+        "options": [
+            "Agra",
+            "Mumbai",
+            "Delhi",
+            "Goa",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Eight persons \u2013 Mona, Moti, Meera, Mali, Mitra, Mansi, Megha and Mrig, were sitting in a circle facing towards the center. Each of them was born in a different city \u2014 Shimla, Manali, Agra, Nanital, Pune, Goa, Mumbai and Delhi, but not necessarily in the same order. Two persons were sitting between the one, who was born in Nanital and Mitra. Mona was born in Shimla and sits opposite to Mitra. The one, who was born in Pune, sits opposite to Mali. Mrig was born in Mumbai and sits second to the right of the one, who was born in Nanital. Meera was born in Pune and was an immediate neighbor of the one, who was born in Goa. Megha sits third right to Moti. Mali was born in Nanital. The one, who was born in Delhi, sits adjacent to the one, who was born in Nanital. Mitra was born in Manali and Megha was born in Delhi.",
+        "question": "Who among the following was sitting third to the right of Megha?",
+        "options": [
+            "Mitra",
+            "Meera",
+            "Moti",
+            "Mona",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Eight persons \u2013 Mona, Moti, Meera, Mali, Mitra, Mansi, Megha and Mrig, were sitting in a circle facing towards the center. Each of them was born in a different city \u2014 Shimla, Manali, Agra, Nanital, Pune, Goa, Mumbai and Delhi, but not necessarily in the same order. Two persons were sitting between the one, who was born in Nanital and Mitra. Mona was born in Shimla and sits opposite to Mitra. The one, who was born in Pune, sits opposite to Mali. Mrig was born in Mumbai and sits second to the right of the one, who was born in Nanital. Meera was born in Pune and was an immediate neighbor of the one, who was born in Goa. Megha sits third right to Moti. Mali was born in Nanital. The one, who was born in Delhi, sits adjacent to the one, who was born in Nanital. Mitra was born in Manali and Megha was born in Delhi.",
+        "question": "Who among the following was born in Agra?",
+        "options": [
+            "Moti",
+            "Mansi",
+            "Megha",
+            "Mrig",
+            "None of these"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Eight persons \u2013 Mona, Moti, Meera, Mali, Mitra, Mansi, Megha and Mrig, were sitting in a circle facing towards the center. Each of them was born in a different city \u2014 Shimla, Manali, Agra, Nanital, Pune, Goa, Mumbai and Delhi, but not necessarily in the same order. Two persons were sitting between the one, who was born in Nanital and Mitra. Mona was born in Shimla and sits opposite to Mitra. The one, who was born in Pune, sits opposite to Mali. Mrig was born in Mumbai and sits second to the right of the one, who was born in Nanital. Meera was born in Pune and was an immediate neighbor of the one, who was born in Goa. Megha sits third right to Moti. Mali was born in Nanital. The one, who was born in Delhi, sits adjacent to the one, who was born in Nanital. Mitra was born in Manali and Megha was born in Delhi.",
+        "question": "Who among the following was sitting in the front of Moti?",
+        "options": [
+            "The one who was born in Manali",
+            "Meera",
+            "The one who was born in Mumbai",
+            "Mitra",
+            "Both option A and D"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Eight persons \u2013 Mona, Moti, Meera, Mali, Mitra, Mansi, Megha and Mrig, were sitting in a circle facing towards the center. Each of them was born in a different city \u2014 Shimla, Manali, Agra, Nanital, Pune, Goa, Mumbai and Delhi, but not necessarily in the same order. Two persons were sitting between the one, who was born in Nanital and Mitra. Mona was born in Shimla and sits opposite to Mitra. The one, who was born in Pune, sits opposite to Mali. Mrig was born in Mumbai and sits second to the right of the one, who was born in Nanital. Meera was born in Pune and was an immediate neighbor of the one, who was born in Goa. Megha sits third right to Moti. Mali was born in Nanital. The one, who was born in Delhi, sits adjacent to the one, who was born in Nanital. Mitra was born in Manali and Megha was born in Delhi.",
+        "question": "What is the position of Meera with respect to the one who was born in Shimla?",
+        "options": [
+            "Second to the right",
+            "Third to the right",
+            "Fourth to the left",
+            "Second to the left",
+            "None of these"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "Eight persons \u2013 Ankit, Kavit, Manit, Vinit, Charit, Sumit, Ganit, and Ronit are sitting in a straight line (but not necessarily in the same order) such that three of them are facing south and rest of them are facing north. Each of them works in a different bank \u2013 SBI, UCO, PNB, BOB, SEBI, RBI, BOI, and NHB (but not necessarily in same order). Four persons sit between Ronit and Charit, who works in RBI. Sumit sits right of Manit, who works in BOI. Ganit and Charit face opposite direction to each other. The one, who is sitting on the immediate right of Vinit, works in NHB. Kavit sits third from one of the extreme end of the row. Ronit sits third to the right of Manit. The one who works in PNB sits immediate right of the one who works in UCO. Manit doesn\u2019t face north direction. Ganit is an immediate neighbor of Manit and Charit both. Vinit sits second to the right of Ganit. Manit sits on the immediate left of Kavit. The one who works in SBI sits at an extreme end. The one who works in BOB sits between Charit and Ankit. Sumit does not work in PNB.",
+        "question": "Kavit works in which of the following banks?",
+        "options": [
+            "UCO",
+            "PNB",
+            "SEBI",
+            "NHB",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Eight persons \u2013 Ankit, Kavit, Manit, Vinit, Charit, Sumit, Ganit, and Ronit are sitting in a straight line (but not necessarily in the same order) such that three of them are facing south and rest of them are facing north. Each of them works in a different bank \u2013 SBI, UCO, PNB, BOB, SEBI, RBI, BOI, and NHB (but not necessarily in same order). Four persons sit between Ronit and Charit, who works in RBI. Sumit sits right of Manit, who works in BOI. Ganit and Charit face opposite direction to each other. The one, who is sitting on the immediate right of Vinit, works in NHB. Kavit sits third from one of the extreme end of the row. Ronit sits third to the right of Manit. The one who works in PNB sits immediate right of the one who works in UCO. Manit doesn\u2019t face north direction. Ganit is an immediate neighbor of Manit and Charit both. Vinit sits second to the right of Ganit. Manit sits on the immediate left of Kavit. The one who works in SBI sits at an extreme end. The one who works in BOB sits between Charit and Ankit. Sumit does not work in PNB.",
+        "question": "Which of the following combinations is correct?",
+        "options": [
+            "Sumit \u2013 BOI \u2013 South",
+            "Kavit \u2013 UCO \u2013 South",
+            "Vinit \u2013 BOB \u2013 North",
+            "Ronit \u2013 NHB \u2013 North",
+            "Ankit \u2013 SBI \u2013 South"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Eight persons \u2013 Ankit, Kavit, Manit, Vinit, Charit, Sumit, Ganit, and Ronit are sitting in a straight line (but not necessarily in the same order) such that three of them are facing south and rest of them are facing north. Each of them works in a different bank \u2013 SBI, UCO, PNB, BOB, SEBI, RBI, BOI, and NHB (but not necessarily in same order). Four persons sit between Ronit and Charit, who works in RBI. Sumit sits right of Manit, who works in BOI. Ganit and Charit face opposite direction to each other. The one, who is sitting on the immediate right of Vinit, works in NHB. Kavit sits third from one of the extreme end of the row. Ronit sits third to the right of Manit. The one who works in PNB sits immediate right of the one who works in UCO. Manit doesn\u2019t face north direction. Ganit is an immediate neighbor of Manit and Charit both. Vinit sits second to the right of Ganit. Manit sits on the immediate left of Kavit. The one who works in SBI sits at an extreme end. The one who works in BOB sits between Charit and Ankit. Sumit does not work in PNB.",
+        "question": "How many person(s) sit between Charit and Sumit?",
+        "options": [
+            "None",
+            "One",
+            "Two",
+            "Three",
+            "More than three"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Eight persons \u2013 Ankit, Kavit, Manit, Vinit, Charit, Sumit, Ganit, and Ronit are sitting in a straight line (but not necessarily in the same order) such that three of them are facing south and rest of them are facing north. Each of them works in a different bank \u2013 SBI, UCO, PNB, BOB, SEBI, RBI, BOI, and NHB (but not necessarily in same order). Four persons sit between Ronit and Charit, who works in RBI. Sumit sits right of Manit, who works in BOI. Ganit and Charit face opposite direction to each other. The one, who is sitting on the immediate right of Vinit, works in NHB. Kavit sits third from one of the extreme end of the row. Ronit sits third to the right of Manit. The one who works in PNB sits immediate right of the one who works in UCO. Manit doesn\u2019t face north direction. Ganit is an immediate neighbor of Manit and Charit both. Vinit sits second to the right of Ganit. Manit sits on the immediate left of Kavit. The one who works in SBI sits at an extreme end. The one who works in BOB sits between Charit and Ankit. Sumit does not work in PNB.",
+        "question": "What is the position of the one who works in BOB with respect to the one who works in PNB?",
+        "options": [
+            "Third to the right",
+            "Fourth to the left",
+            "Fifth to the right",
+            "Fourth to the right",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Eight persons \u2013 Ankit, Kavit, Manit, Vinit, Charit, Sumit, Ganit, and Ronit are sitting in a straight line (but not necessarily in the same order) such that three of them are facing south and rest of them are facing north. Each of them works in a different bank \u2013 SBI, UCO, PNB, BOB, SEBI, RBI, BOI, and NHB (but not necessarily in same order). Four persons sit between Ronit and Charit, who works in RBI. Sumit sits right of Manit, who works in BOI. Ganit and Charit face opposite direction to each other. The one, who is sitting on the immediate right of Vinit, works in NHB. Kavit sits third from one of the extreme end of the row. Ronit sits third to the right of Manit. The one who works in PNB sits immediate right of the one who works in UCO. Manit doesn\u2019t face north direction. Ganit is an immediate neighbor of Manit and Charit both. Vinit sits second to the right of Ganit. Manit sits on the immediate left of Kavit. The one who works in SBI sits at an extreme end. The one who works in BOB sits between Charit and Ankit. Sumit does not work in PNB.",
+        "question": "Who among the following works in SEBI?",
+        "options": [
+            "Ankit",
+            "Kavit",
+            "Vinit",
+            "Sumit",
+            "None of these"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "Seven persons \u2013 Naina, Shalu, Amar, Rohan, Doshi, Brij and Vinod, are sitting on a bench in a church, facing south. Each of them has a different profession \u2013 Manager, Engineer, Boxer, Politician, Singer, Painter and Actor. Amar sits second to the right of Vinod. Brij is not a Boxer. There is one person sitting between Amar and Rohan. Naina is an immediate neighbour of Doshi, who sits at an extreme end. The one who is an Engineer sits third to the left of Shalu, who is a Painter. Vinod sits third from left end. The one who is a Singer sits at an extreme end and immediate neighbor of Shalu. The one who is an Actor sits second to the left of Rohan. Naina is neither Manager nor Boxer.",
+        "question": "Who among the following is a Politician?",
+        "options": [
+            "Doshi",
+            "Naina",
+            "Brij",
+            "Amar",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Seven persons \u2013 Naina, Shalu, Amar, Rohan, Doshi, Brij and Vinod, are sitting on a bench in a church, facing south. Each of them has a different profession \u2013 Manager, Engineer, Boxer, Politician, Singer, Painter and Actor. Amar sits second to the right of Vinod. Brij is not a Boxer. There is one person sitting between Amar and Rohan. Naina is an immediate neighbour of Doshi, who sits at an extreme end. The one who is an Engineer sits third to the left of Shalu, who is a Painter. Vinod sits third from left end. The one who is a Singer sits at an extreme end and immediate neighbor of Shalu. The one who is an Actor sits second to the left of Rohan. Naina is neither Manager nor Boxer.",
+        "question": "What is the profession of the one who sits in the middle of the row?",
+        "options": [
+            "Boxer",
+            "Painter",
+            "Engineer",
+            "Manager",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Seven persons \u2013 Naina, Shalu, Amar, Rohan, Doshi, Brij and Vinod, are sitting on a bench in a church, facing south. Each of them has a different profession \u2013 Manager, Engineer, Boxer, Politician, Singer, Painter and Actor. Amar sits second to the right of Vinod. Brij is not a Boxer. There is one person sitting between Amar and Rohan. Naina is an immediate neighbour of Doshi, who sits at an extreme end. The one who is an Engineer sits third to the left of Shalu, who is a Painter. Vinod sits third from left end. The one who is a Singer sits at an extreme end and immediate neighbor of Shalu. The one who is an Actor sits second to the left of Rohan. Naina is neither Manager nor Boxer.",
+        "question": "Who among the following sits third to the left of the one who is an Actor?",
+        "options": [
+            "Naina",
+            "No one (As the one who is an Actor sits second from the left end of the row)",
+            "Vinod",
+            "Amar",
+            "Brij"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Seven persons \u2013 Naina, Shalu, Amar, Rohan, Doshi, Brij and Vinod, are sitting on a bench in a church, facing south. Each of them has a different profession \u2013 Manager, Engineer, Boxer, Politician, Singer, Painter and Actor. Amar sits second to the right of Vinod. Brij is not a Boxer. There is one person sitting between Amar and Rohan. Naina is an immediate neighbour of Doshi, who sits at an extreme end. The one who is an Engineer sits third to the left of Shalu, who is a Painter. Vinod sits third from left end. The one who is a Singer sits at an extreme end and immediate neighbor of Shalu. The one who is an Actor sits second to the left of Rohan. Naina is neither Manager nor Boxer.",
+        "question": "How many person(s) sits between Shalu and Naina?",
+        "options": [
+            "None",
+            "One",
+            "Two",
+            "Three",
+            "More than three"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Seven persons \u2013 Naina, Shalu, Amar, Rohan, Doshi, Brij and Vinod, are sitting on a bench in a church, facing south. Each of them has a different profession \u2013 Manager, Engineer, Boxer, Politician, Singer, Painter and Actor. Amar sits second to the right of Vinod. Brij is not a Boxer. There is one person sitting between Amar and Rohan. Naina is an immediate neighbour of Doshi, who sits at an extreme end. The one who is an Engineer sits third to the left of Shalu, who is a Painter. Vinod sits third from left end. The one who is a Singer sits at an extreme end and immediate neighbor of Shalu. The one who is an Actor sits second to the left of Rohan. Naina is neither Manager nor Boxer.",
+        "question": "Which of the following combinations is/are correct?",
+        "options": [
+            "Shalu \u2013 Singer",
+            "Doshi \u2013 Manager",
+            "Amar \u2013 Actor",
+            "All are correct",
+            "None is correct"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Eight persons \u2013 Navya, Farukh, Ankur, Mangal, Ravan, Danav, Simar, and Gopal are seated around a circular table such that only three of them are facing away from the centre and the rest are facing towards the centre (not necessarily in the same order). Navya sits second to the left of Ankur. Farukh is not an immediate neighbour of both Ankur and Navya. One of the immediate neighbours of Ankur faces opposite direction of Ankur. Gopal sits third to the left of Navya. Danav sits second to the left of Gopal. Mangal is not an immediate neighbour of Farukh. Simar sits third to the left of Mangal. Ravan and Farukh face the same direction as Mangal faces. Farukh doesn\u2019t sit opposite to both Ankur and Navya.",
+        "question": "Who among the following sits second to the right of Danav?",
+        "options": [
+            "Navya",
+            "Simar",
+            "Mangal",
+            "Gopal",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Eight persons \u2013 Navya, Farukh, Ankur, Mangal, Ravan, Danav, Simar, and Gopal are seated around a circular table such that only three of them are facing away from the centre and the rest are facing towards the centre (not necessarily in the same order). Navya sits second to the left of Ankur. Farukh is not an immediate neighbour of both Ankur and Navya. One of the immediate neighbours of Ankur faces opposite direction of Ankur. Gopal sits third to the left of Navya. Danav sits second to the left of Gopal. Mangal is not an immediate neighbour of Farukh. Simar sits third to the left of Mangal. Ravan and Farukh face the same direction as Mangal faces. Farukh doesn\u2019t sit opposite to both Ankur and Navya.",
+        "question": "Who among the sits in front of Ravan?",
+        "options": [
+            "Farukh",
+            "Mangal",
+            "Navya",
+            "Ankur",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Eight persons \u2013 Navya, Farukh, Ankur, Mangal, Ravan, Danav, Simar, and Gopal are seated around a circular table such that only three of them are facing away from the centre and the rest are facing towards the centre (not necessarily in the same order). Navya sits second to the left of Ankur. Farukh is not an immediate neighbour of both Ankur and Navya. One of the immediate neighbours of Ankur faces opposite direction of Ankur. Gopal sits third to the left of Navya. Danav sits second to the left of Gopal. Mangal is not an immediate neighbour of Farukh. Simar sits third to the left of Mangal. Ravan and Farukh face the same direction as Mangal faces. Farukh doesn\u2019t sit opposite to both Ankur and Navya.",
+        "question": "If the all persons are made to according to their names appear in dictionary in clockwise direction starting from Ankur then position of how many person(s) will remain unchanged including Ankur?",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Eight persons \u2013 Navya, Farukh, Ankur, Mangal, Ravan, Danav, Simar, and Gopal are seated around a circular table such that only three of them are facing away from the centre and the rest are facing towards the centre (not necessarily in the same order). Navya sits second to the left of Ankur. Farukh is not an immediate neighbour of both Ankur and Navya. One of the immediate neighbours of Ankur faces opposite direction of Ankur. Gopal sits third to the left of Navya. Danav sits second to the left of Gopal. Mangal is not an immediate neighbour of Farukh. Simar sits third to the left of Mangal. Ravan and Farukh face the same direction as Mangal faces. Farukh doesn\u2019t sit opposite to both Ankur and Navya.",
+        "question": "Who among the following sits third to the left of Simar?",
+        "options": [
+            "Mangal",
+            "Danav",
+            "Navya",
+            "Ravan",
+            "None of these"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Eight persons \u2013 Navya, Farukh, Ankur, Mangal, Ravan, Danav, Simar, and Gopal are seated around a circular table such that only three of them are facing away from the centre and the rest are facing towards the centre (not necessarily in the same order). Navya sits second to the left of Ankur. Farukh is not an immediate neighbour of both Ankur and Navya. One of the immediate neighbours of Ankur faces opposite direction of Ankur. Gopal sits third to the left of Navya. Danav sits second to the left of Gopal. Mangal is not an immediate neighbour of Farukh. Simar sits third to the left of Mangal. Ravan and Farukh face the same direction as Mangal faces. Farukh doesn\u2019t sit opposite to both Ankur and Navya.",
+        "question": "How many person(s) sit between Ravan and Navya when counted from the right of Navya?",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Eight persons \u2013 Heer, Rani, Nora, Anup, Doha, Mrig, Gaur and Shera are sitting around a square table such that four persons sits on the fours corner the table facing towards the center and the rest of the four persons sits on the middle of the sides facing away from the centre. Gaur neither sits at corner nor opposite to Shera. Nora sits third to the left of Rani. Only two persons sit between Mrig and Shera, who sits immediate left of Nora. Anup sits second to the left of Heer, who sits third left of Gaur.",
+        "question": "Who among the following sits in front of Anup?",
+        "options": [
+            "Nora",
+            "Gaur",
+            "Shera",
+            "Rani",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Eight persons \u2013 Heer, Rani, Nora, Anup, Doha, Mrig, Gaur and Shera are sitting around a square table such that four persons sits on the fours corner the table facing towards the center and the rest of the four persons sits on the middle of the sides facing away from the centre. Gaur neither sits at corner nor opposite to Shera. Nora sits third to the left of Rani. Only two persons sit between Mrig and Shera, who sits immediate left of Nora. Anup sits second to the left of Heer, who sits third left of Gaur.",
+        "question": "How many person(s) sit between Rani and Shera, when counted from the right of Shera?",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "None",
+            "More than three"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Eight persons \u2013 Heer, Rani, Nora, Anup, Doha, Mrig, Gaur and Shera are sitting around a square table such that four persons sits on the fours corner the table facing towards the center and the rest of the four persons sits on the middle of the sides facing away from the centre. Gaur neither sits at corner nor opposite to Shera. Nora sits third to the left of Rani. Only two persons sit between Mrig and Shera, who sits immediate left of Nora. Anup sits second to the left of Heer, who sits third left of Gaur.",
+        "question": "If the names of all the persons are arranged according the order in which they will appear in dictionary in anticlockwise order starting from Anup, then position of how many person(s) will be remain unchanged excluding Anup?",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "None",
+            "More than three"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Eight persons \u2013 Heer, Rani, Nora, Anup, Doha, Mrig, Gaur and Shera are sitting around a square table such that four persons sits on the fours corner the table facing towards the center and the rest of the four persons sits on the middle of the sides facing away from the centre. Gaur neither sits at corner nor opposite to Shera. Nora sits third to the left of Rani. Only two persons sit between Mrig and Shera, who sits immediate left of Nora. Anup sits second to the left of Heer, who sits third left of Gaur.",
+        "question": "Who among the following sits third to the left of Doha?",
+        "options": [
+            "Shera",
+            "Rani",
+            "Heer",
+            "Anup",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Eight persons \u2013 Heer, Rani, Nora, Anup, Doha, Mrig, Gaur and Shera are sitting around a square table such that four persons sits on the fours corner the table facing towards the center and the rest of the four persons sits on the middle of the sides facing away from the centre. Gaur neither sits at corner nor opposite to Shera. Nora sits third to the left of Rani. Only two persons sit between Mrig and Shera, who sits immediate left of Nora. Anup sits second to the left of Heer, who sits third left of Gaur.",
+        "question": "Who among the following sits second to the right of Mrig?",
+        "options": [
+            "Nora",
+            "Gaur",
+            "Doha",
+            "Anup",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Eight persons are sitting on two parallel benches namely Bench 1 and Bench 2, each four on a bench. The persons who are sitting on bench 1 facing north and those on bench 2 are facing south such that each person of both the benches faces each other. Gayu faces Hina, who does not sit at any of the extreme ends. Ela and Bani neither sits in the same row nor faces each other. Hina sits second to the right of Dia. Fiza sits in the same row in which Ela sits. Bani faces the person who is second to the right of Ahana. Caira sits on bench 1",
+        "question": "Who among the following faces Ela?",
+        "options": [
+            "Bani",
+            "Hina",
+            "Gayu",
+            "Dia",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Eight persons are sitting on two parallel benches namely Bench 1 and Bench 2, each four on a bench. The persons who are sitting on bench 1 facing north and those on bench 2 are facing south such that each person of both the benches faces each other. Gayu faces Hina, who does not sit at any of the extreme ends. Ela and Bani neither sits in the same row nor faces each other. Hina sits second to the right of Dia. Fiza sits in the same row in which Ela sits. Bani faces the person who is second to the right of Ahana. Caira sits on bench 1",
+        "question": "Four of the following five are alike in a certain way and thus form a group. Which of the following does not belong to the group?",
+        "options": [
+            "Hina",
+            "Gayu",
+            "Fiza",
+            "Ela",
+            "Ahana"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Eight persons are sitting on two parallel benches namely Bench 1 and Bench 2, each four on a bench. The persons who are sitting on bench 1 facing north and those on bench 2 are facing south such that each person of both the benches faces each other. Gayu faces Hina, who does not sit at any of the extreme ends. Ela and Bani neither sits in the same row nor faces each other. Hina sits second to the right of Dia. Fiza sits in the same row in which Ela sits. Bani faces the person who is second to the right of Ahana. Caira sits on bench 1",
+        "question": "Which of the following pairs consist of persons who sit at the extreme ends?",
+        "options": [
+            "Ela - Hina",
+            "Caira - Gayu",
+            "Ela \u2013 Caira",
+            "Ahana - Bani",
+            "Bani - Caira"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Eight persons are sitting on two parallel benches namely Bench 1 and Bench 2, each four on a bench. The persons who are sitting on bench 1 facing north and those on bench 2 are facing south such that each person of both the benches faces each other. Gayu faces Hina, who does not sit at any of the extreme ends. Ela and Bani neither sits in the same row nor faces each other. Hina sits second to the right of Dia. Fiza sits in the same row in which Ela sits. Bani faces the person who is second to the right of Ahana. Caira sits on bench 1",
+        "question": "What is the position of Fiza with respect to Ahana?",
+        "options": [
+            "Second to the left",
+            "Second to the right",
+            "Immediate left",
+            "Immediate right",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Eight persons are sitting on two parallel benches namely Bench 1 and Bench 2, each four on a bench. The persons who are sitting on bench 1 facing north and those on bench 2 are facing south such that each person of both the benches faces each other. Gayu faces Hina, who does not sit at any of the extreme ends. Ela and Bani neither sits in the same row nor faces each other. Hina sits second to the right of Dia. Fiza sits in the same row in which Ela sits. Bani faces the person who is second to the right of Ahana. Caira sits on bench 1",
+        "question": "In which of the following pairs, persons do not face each other?",
+        "options": [
+            "Bani - Fiza",
+            "Caira - Ahana",
+            "Dia \u2013 Ela",
+            "Hina - Gayu",
+            "Hina \u2013 Ahana"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "Ten People- A, B, C, D, E, P, Q, R, S and T are sitting in two parallel rows but not necessarily in same order. Four of them like white colour , four of them like black colour and two like red colour. No two people likes same colour sit opposite or next to each other. Row 1 consist of- A, B, C, D, E but not necessarily in same order and Row 2 consist of- P, Q, R, S and T but not necessarily in same order. People sitting in both rows face each other. T is an immediate neighbour of R. People who like Red colour do not sit in the same row. Two people sit between Q and T. E sits third to the right of B. A does not like black colour. Person who likes red colour is not an immediate neighbour of D. Person facing B and sitting next to him, Both like Black colour. D does not face P. People liking Red colour sit at extreme ends of the rows. R sits at one of the extreme ends. People who like Red colour do not face each other. Q does not like red colour. S and A like same colour. B likes red colour.",
+        "question": "Find the Odd one out?",
+        "options": [
+            "B",
+            "Q",
+            "D",
+            "C",
+            "R"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Ten People- A, B, C, D, E, P, Q, R, S and T are sitting in two parallel rows but not necessarily in same order. Four of them like white colour , four of them like black colour and two like red colour. No two people likes same colour sit opposite or next to each other. Row 1 consist of- A, B, C, D, E but not necessarily in same order and Row 2 consist of- P, Q, R, S and T but not necessarily in same order. People sitting in both rows face each other. T is an immediate neighbour of R. People who like Red colour do not sit in the same row. Two people sit between Q and T. E sits third to the right of B. A does not like black colour. Person who likes red colour is not an immediate neighbour of D. Person facing B and sitting next to him, Both like Black colour. D does not face P. People liking Red colour sit at extreme ends of the rows. R sits at one of the extreme ends. People who like Red colour do not face each other. Q does not like red colour. S and A like same colour. B likes red colour.",
+        "question": "Which of the following pair face the one who likes red?",
+        "options": [
+            "C, S",
+            "A, P",
+            "E, T",
+            "D, R",
+            "Q, D"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "Ten People- A, B, C, D, E, P, Q, R, S and T are sitting in two parallel rows but not necessarily in same order. Four of them like white colour , four of them like black colour and two like red colour. No two people likes same colour sit opposite or next to each other. Row 1 consist of- A, B, C, D, E but not necessarily in same order and Row 2 consist of- P, Q, R, S and T but not necessarily in same order. People sitting in both rows face each other. T is an immediate neighbour of R. People who like Red colour do not sit in the same row. Two people sit between Q and T. E sits third to the right of B. A does not like black colour. Person who likes red colour is not an immediate neighbour of D. Person facing B and sitting next to him, Both like Black colour. D does not face P. People liking Red colour sit at extreme ends of the rows. R sits at one of the extreme ends. People who like Red colour do not face each other. Q does not like red colour. S and A like same colour. B likes red colour.",
+        "question": "A is related to C and E in some way , in the same way S is related to P and Q then E is related to whom following the same pattern?",
+        "options": [
+            "C, B",
+            "A, D",
+            "E, R",
+            "D, C",
+            "Q, D"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Ten People- A, B, C, D, E, P, Q, R, S and T are sitting in two parallel rows but not necessarily in same order. Four of them like white colour , four of them like black colour and two like red colour. No two people likes same colour sit opposite or next to each other. Row 1 consist of- A, B, C, D, E but not necessarily in same order and Row 2 consist of- P, Q, R, S and T but not necessarily in same order. People sitting in both rows face each other.",
+        "question": "Which of the following is not false?",
+        "options": [
+            "S-Black",
+            "D-Red",
+            "Q-White",
+            "All are false",
+            "All are not false"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Ten People- A, B, C, D, E, P, Q, R, S and T are sitting in two parallel rows but not necessarily in same order. Four of them like white colour , four of them like black colour and two like red colour. No two people likes same colour sit opposite or next to each other. Row 1 consist of- A, B, C, D, E but not necessarily in same order and Row 2 consist of- P, Q, R, S and T but not necessarily in same order. People sitting in both rows face each other.",
+        "question": "Find the wrong pair?",
+        "options": [
+            "C, S",
+            "E, T",
+            "A, R",
+            "B, Q",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Twelve key members are invited by the party President to discuss the points to be included in their party manifesto. They sit in two rows each of which contains six persons. Members in both the rows face each other and are equidistant with the persons sitting adjacent. Raghu, Gopi, Somi, Sethi, Abram and Anu are sitting in row-1 and they face towards east. Prabhu, Deva, Javed, Atal, Puri and Gil are sitting in row-2 and they face towards west. One person of one row faces the other person of the other row. Prabhu, who is sitting at one of the ends of the row, is second to the right of Puri. Raghu does not face Prabhu or Puri. Raghu is third to the left of Anu. There are two persons between Deva and Gil.",
+        "question": "Who among the following faces Anu?",
+        "options": [
+            "Deva",
+            "Puri",
+            "Atal",
+            "Javed",
+            "Gil"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "Twelve key members are invited by the party President to discuss the points to be included in their party manifesto. They sit in two rows each of which contains six persons. Members in both the rows face each other and are equidistant with the persons sitting adjacent. Raghu, Gopi, Somi, Sethi, Abram and Anu are sitting in row-1 and they face towards east. Prabhu, Deva, Javed, Atal, Puri and Gil are sitting in row-2 and they face towards west. One person of one row faces the other person of the other row. Prabhu, who is sitting at one of the ends of the row, is second to the right of Puri. Raghu does not face Prabhu or Puri. Raghu is third to the left of Anu. There are two persons between Deva and Gil.",
+        "question": "How many persons are sitting between Abram and Somi?",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "None"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Twelve key members are invited by the party President to discuss the points to be included in their party manifesto. They sit in two rows each of which contains six persons. Members in both the rows face each other and are equidistant with the persons sitting adjacent. Raghu, Gopi, Somi, Sethi, Abram and Anu are sitting in row-1 and they face towards east. Prabhu, Deva, Javed, Atal, Puri and Gil are sitting in row-2 and they face towards west. One person of one row faces the other person of the other row. Prabhu, who is sitting at one of the ends of the row, is second to the right of Puri. Raghu does not face Prabhu or Puri. Raghu is third to the left of Anu. There are two persons between Deva and Gil.",
+        "question": "Abram is related to Javed in the same way as Gopi is related to Atal. On this pattern Anu is related to:",
+        "options": [
+            "Gil",
+            "Prabhu",
+            "Puri",
+            "Deva",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Twelve key members are invited by the party President to discuss the points to be included in their party manifesto. They sit in two rows each of which contains six persons. Members in both the rows face each other and are equidistant with the persons sitting adjacent. Raghu, Gopi, Somi, Sethi, Abram and Anu are sitting in row-1 and they face towards east. Prabhu, Deva, Javed, Atal, Puri and Gil are sitting in row-2 and they face towards west. One person of one row faces the other person of the other row. Prabhu, who is sitting at one of the ends of the row, is second to the right of Puri. Raghu does not face Prabhu or Puri. Raghu is third to the left of Anu. There are two persons between Deva and Gil.",
+        "question": "Which of the following statements is true about Gopi?",
+        "options": [
+            "Gill is the neighbour of that person who faces Gopi.",
+            "Somi is not the immediate neighbour of Gopi.",
+            "Abram is second to the right of Gopi.",
+            "Puri faces Gopi.",
+            "Gopi is second from the left end of the row."
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Twelve key members are invited by the party President to discuss the points to be included in their party manifesto. They sit in two rows each of which contains six persons. Members in both the rows face each other and are equidistant with the persons sitting adjacent. Raghu, Gopi, Somi, Sethi, Abram and Anu are sitting in row-1 and they face towards east. Prabhu, Deva, Javed, Atal, Puri and Gil are sitting in row-2 and they face towards west. One person of one row faces the other person of the other row. Prabhu, who is sitting at one of the ends of the row, is second to the right of Puri. Raghu does not face Prabhu or Puri. Raghu is third to the left of Anu. There are two persons between Deva and Gil.",
+        "question": "Who are sitting at the ends of the row-1?",
+        "options": [
+            "Prabhu, Gil",
+            "Anu, Raghu",
+            "Sethi, Abram",
+            "Prabhu, Atal",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Eight family members Anuj, Amit, Anu, Ajay, Ayush, Aarti, Anita, and Anupam are sitting around a circular table, facing the centre but not necessarily in the same order. Aarti, the wife of Ajay is sitting third to the right of Anu. Anuj is the son of Anupam. Anuj is sitting second to the left of Ajay. Ajay is not an immediate neighbour to neither Aarti nor Anu. No male is an immediate neighbour to Ajay. Anita sits second to the left of Ajay\u2019s son. Only two persons sit between Anupam and Anuj\u2019s brother. Neither Anu nor Ajay is the brother of Anuj. Ajay \u2018s son and the wife of Ajay\u2019s son are immediate neighbours to each other. Aarti is the mother of Anupam. Aarti is not an immediate neighbours to Amit and Anita. Anita is the sister of Ayush.",
+        "question": "Who sits second to the left of Anita?",
+        "options": [
+            "Anuj\u2019s brother",
+            "Anita\u2019s mother",
+            "Ajay",
+            "Amit\u2019s father",
+            "Anuj\u2019s aunt"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Eight family members Anuj, Amit, Anu, Ajay, Ayush, Aarti, Anita, and Anupam are sitting around a circular table, facing the centre but not necessarily in the same order. Aarti, the wife of Ajay is sitting third to the right of Anu. Anuj is the son of Anupam. Anuj is sitting second to the left of Ajay. Ajay is not an immediate neighbour to neither Aarti nor Anu. No male is an immediate neighbour to Ajay. Anita sits second to the left of Ajay\u2019s son. Only two persons sit between Anupam and Anuj\u2019s brother. Neither Anu nor Ajay is the brother of Anuj. Ajay \u2018s son and the wife of Ajay\u2019s son are immediate neighbours to each other. Aarti is the mother of Anupam. Aarti is not an immediate neighbours to Amit and Anita. Anita is the sister of Ayush.",
+        "question": "Who among the following is Ajay\u2019s son?",
+        "options": [
+            "Ayush",
+            "Anupam",
+            "Anuj",
+            "Amit",
+            "Can\u2019t be determined"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Eight family members Anuj, Amit, Anu, Ajay, Ayush, Aarti, Anita, and Anupam are sitting around a circular table, facing the centre but not necessarily in the same order. Aarti, the wife of Ajay is sitting third to the right of Anu. Anuj is the son of Anupam. Anuj is sitting second to the left of Ajay. Ajay is not an immediate neighbour to neither Aarti nor Anu. No male is an immediate neighbour to Ajay. Anita sits second to the left of Ajay\u2019s son. Only two persons sit between Anupam and Anuj\u2019s brother. Neither Anu nor Ajay is the brother of Anuj. Ajay \u2018s son and the wife of Ajay\u2019s son are immediate neighbours to each other. Aarti is the mother of Anupam. Aarti is not an immediate neighbours to Amit and Anita. Anita is the sister of Ayush.",
+        "question": "How many people sit between Anuj and his brother?",
+        "options": [
+            "None",
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Eight family members Anuj, Amit, Anu, Ajay, Ayush, Aarti, Anita, and Anupam are sitting around a circular table, facing the centre but not necessarily in the same order. Aarti, the wife of Ajay is sitting third to the right of Anu. Anuj is the son of Anupam. Anuj is sitting second to the left of Ajay. Ajay is not an immediate neighbour to neither Aarti nor Anu. No male is an immediate neighbour to Ajay. Anita sits second to the left of Ajay\u2019s son. Only two persons sit between Anupam and Anuj\u2019s brother. Neither Anu nor Ajay is the brother of Anuj. Ajay \u2018s son and the wife of Ajay\u2019s son are immediate neighbours to each other. Aarti is the mother of Anupam. Aarti is not an immediate neighbours to Amit and Anita. Anita is the sister of Ayush.",
+        "question": "Who among the following sits exactly between Anupam and Aarti?",
+        "options": [
+            "Ajay\u2019s wife",
+            "Ajay\u2019s son",
+            "Anu",
+            "Amit",
+            "Anuj"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "Eight family members Anuj, Amit, Anu, Ajay, Ayush, Aarti, Anita, and Anupam are sitting around a circular table, facing the centre but not necessarily in the same order. Aarti, the wife of Ajay is sitting third to the right of Anu. Anuj is the son of Anupam. Anuj is sitting second to the left of Ajay. Ajay is not an immediate neighbour to neither Aarti nor Anu. No male is an immediate neighbour to Ajay. Anita sits second to the left of Ajay\u2019s son. Only two persons sit between Anupam and Anuj\u2019s brother. Neither Anu nor Ajay is the brother of Anuj. Ajay \u2018s son and the wife of Ajay\u2019s son are immediate neighbours to each other. Aarti is the mother of Anupam. Aarti is not an immediate neighbours to Amit and Anita. Anita is the sister of Ayush.",
+        "question": "Four of the following five are alike in a certain way based on the given arrangement and so form a group. Which is the one that does not belong to that group?",
+        "options": [
+            "Amit",
+            "Anu",
+            "Anupam",
+            "Anita",
+            "Aarti"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Eight students Anant, Balbir, Chakshu, Deependu, Ekansh, Faiyaz, Gandhik, and Hriday are sitting in a row facing north but not necessarily in the same order. No two successive students are sitting together according to alphabetical order. For example, Anant does not sit with Balbir; similarly, Balbir does not sit with Chakshu and so on. They also like different sports like Archery, Polo, Rugby, Taekwondo, Wrestling, Squash, Gymnastics, and Baseball but not necessarily in the same order. Either Deependu or Balbir sits at the extreme end of the row. Anant likes Baseball and sits second from the left end of the row. Deependu sits third to the left of one who likes Gymnastics. Balbir sits third to the left of Gandhik, who likes Squash. Gandhik does not sit at the extreme end of the line. The one who likes Wrestling sits second to the left of Faiyaz. Ekansh does not sit at any of the extreme ends of the line. One of the immediate neighbors of Balbir likes Taekwondo. Faiyaz does not like Taekwondo. The one who likes Rugby sits second to the right of one who likes Archery.",
+        "question": "Which of the following student is sitting third to the right of one who likes Taekwondo?",
+        "options": [
+            "Ekansh",
+            "Gandhik",
+            "Deependu",
+            "Balbir",
+            "None of these"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "How many students sit between Deependu and Ekansh?",
+        "question": "How many students sit between Deependu and Ekansh?",
+        "options": [
+            "One",
+            "Two",
+            "Four",
+            "Can't Be determined",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Deependu likes which of the following sports?",
+        "question": "Deependu likes which of the following sports?",
+        "options": [
+            "Wrestling",
+            "Rugby",
+            "Archery",
+            "Taekwondo",
+            "None of these"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Who among following sits immediate left of Balbir?",
+        "question": "Who among following sits immediate left of Balbir?",
+        "options": [
+            "Anant",
+            "The one who likes Archery",
+            "Hriday",
+            "The one who likes Polo",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Who among following likes Taekwondo?",
+        "question": "Who among following likes Taekwondo?",
+        "options": [
+            "Deependu",
+            "Hriday",
+            "Ekansh",
+            "Balbir",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "The Mishra family went to the photographer for their family photograph. The photographer arranged them in a straight row facing the North. The family members were Anshu, Rama, Krishna, Deva and Sonu. Anshu was sitting third to the right of his daughter Rama was sitting on the immediate right of Krishna, whose husband was the brother of Rama. Anshu and Sonu were immediate neighbours. Deva was not an immediate neighbour of Anshu\u2019s son. Deva was sitting at the left end and the mother of Deva is Krishna, who was the wife of Anshu. Rama and Anshu were immediate neighbours.",
+        "question": "How is Deva related to the person who sits in the middle of the row?",
+        "options": [
+            "Brother",
+            "Sister",
+            "Daughter",
+            "Son",
+            "None of these"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "The Mishra family went to the photographer for their family photograph. The photographer arranged them in a straight row facing the North. The family members were Anshu, Rama, Krishna, Deva and Sonu. Anshu was sitting third to the right of his daughter Rama was sitting on the immediate right of Krishna, whose husband was the brother of Rama. Anshu and Sonu were immediate neighbours. Deva was not an immediate neighbour of Anshu\u2019s son. Deva was sitting at the left end and the mother of Deva is Krishna, who was the wife of Anshu. Rama and Anshu were immediate neighbours.",
+        "question": "How is Anshu related to the person who sits second to the left of Sonu?",
+        "options": [
+            "Mother",
+            "Father",
+            "Brother",
+            "Sister",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "The Mishra family went to the photographer for their family photograph. The photographer arranged them in a straight row facing the North. The family members were Anshu, Rama, Krishna, Deva and Sonu. Anshu was sitting third to the right of his daughter Rama was sitting on the immediate right of Krishna, whose husband was the brother of Rama. Anshu and Sonu were immediate neighbours. Deva was not an immediate neighbour of Anshu\u2019s son. Deva was sitting at the left end and the mother of Deva is Krishna, who was the wife of Anshu. Rama and Anshu were immediate neighbours.",
+        "question": "If the positions of Rama and Sonu are interchanged, then who among the following sits on the immediate left of Sonu\u2019s father?",
+        "options": [
+            "Krishna",
+            "Deva",
+            "Rama",
+            "Sonu",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "The Mishra family went to the photographer for their family photograph. The photographer arranged them in a straight row facing the North. The family members were Anshu, Rama, Krishna, Deva and Sonu. Anshu was sitting third to the right of his daughter Rama was sitting on the immediate right of Krishna, whose husband was the brother of Rama. Anshu and Sonu were immediate neighbours. Deva was not an immediate neighbour of Anshu\u2019s son. Deva was sitting at the left end and the mother of Deva is Krishna, who was the wife of Anshu. Rama and Anshu were immediate neighbours.",
+        "question": "How is Krishna related to Rama?",
+        "options": [
+            "Daughter",
+            "Sister in law",
+            "Sister",
+            "Wife",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "The Mishra family went to the photographer for their family photograph. The photographer arranged them in a straight row facing the North. The family members were Anshu, Rama, Krishna, Deva and Sonu. Anshu was sitting third to the right of his daughter Rama was sitting on the immediate right of Krishna, whose husband was the brother of Rama. Anshu and Sonu were immediate neighbours. Deva was not an immediate neighbour of Anshu\u2019s son. Deva was sitting at the left end and the mother of Deva is Krishna, who was the wife of Anshu. Rama and Anshu were immediate neighbours.",
+        "question": "What is the position of son of Krishna with respect to father of Deva?",
+        "options": [
+            "Immediate left",
+            "Second to the left",
+            "Immediate right",
+            "Second to the right",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Eight students A, B, C, D, E, F, G and H of class 5th are sitting in a row for getting a photograph clicked. They all are having a card in their pocket with a different number viz. 3, 5, 7, 14, 11, 15, 18 and 20 written on it not necessarily in the same order. F is sitting third to the right of B, who is having card on which the written no. is half of the no. written on H\u2019s card who is sitting second to the left of F. One who is having card on which 5th multiple no. of that number which is written on a card of another student is sitting fifth from the left end of the row. G is immediate neighbour of F. Person having smallest prime no. card is sitting second to the left of one whose card no. if subtracted from the card no. of his immediate right neighbour who is C, the resultant will be equal to the card no. of D. A is having card on which second lowest no. is written and is sitting to the immediate right of one having card on which second highest no. is written. A is second to the right of F and is not sitting at any of the extreme end.",
+        "question": "Four of the following five are alike in a certain way and thus forms a group. Find the one which does not belong to that group?",
+        "options": [
+            "D",
+            "B",
+            "C",
+            "A",
+            "G"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "Eight students A, B, C, D, E, F, G and H of class 5th are sitting in a row for getting a photograph clicked. They all are having a card in their pocket with a different number viz. 3, 5, 7, 14, 11, 15, 18 and 20 written on it not necessarily in the same order. F is sitting third to the right of B, who is having card on which the written no. is half of the no. written on H\u2019s card who is sitting second to the left of F. One who is having card on which 5th multiple no. of that number which is written on a card of another student is sitting fifth from the left end of the row. G is immediate neighbour of F. Person having smallest prime no. card is sitting second to the left of one whose card no. if subtracted from the card no. of his immediate right neighbour who is C, the resultant will be equal to the card no. of D. A is having card on which second lowest no. is written and is sitting to the immediate right of one having card on which second highest no. is written. A is second to the right of F and is not sitting at any of the extreme end.",
+        "question": "What is the no. written on the card of E?",
+        "options": [
+            "5",
+            "15",
+            "20",
+            "3",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Eight students A, B, C, D, E, F, G and H of class 5th are sitting in a row for getting a photograph clicked. They all are having a card in their pocket with a different number viz. 3, 5, 7, 14, 11, 15, 18 and 20 written on it not necessarily in the same order. F is sitting third to the right of B, who is having card on which the written no. is half of the no. written on H\u2019s card who is sitting second to the left of F. One who is having card on which 5th multiple no. of that number which is written on a card of another student is sitting fifth from the left end of the row. G is immediate neighbour of F. Person having smallest prime no. card is sitting second to the left of one whose card no. if subtracted from the card no. of his immediate right neighbour who is C, the resultant will be equal to the card no. of D. A is having card on which second lowest no. is written and is sitting to the immediate right of one having card on which second highest no. is written. A is second to the right of F and is not sitting at any of the extreme end.",
+        "question": "Find the product of card no. of G and the person who is sitting to the immediate left of B?",
+        "options": [
+            "100",
+            "45",
+            "210",
+            "54",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Eight students A, B, C, D, E, F, G and H of class 5th are sitting in a row for getting a photograph clicked. They all are having a card in their pocket with a different number viz. 3, 5, 7, 14, 11, 15, 18 and 20 written on it not necessarily in the same order. F is sitting third to the right of B, who is having card on which the written no. is half of the no. written on H\u2019s card who is sitting second to the left of F. One who is having card on which 5th multiple no. of that number which is written on a card of another student is sitting fifth from the left end of the row. G is immediate neighbour of F. Person having smallest prime no. card is sitting second to the left of one whose card no. if subtracted from the card no. of his immediate right neighbour who is C, the resultant will be equal to the card no. of D. A is having card on which second lowest no. is written and is sitting to the immediate right of one having card on which second highest no. is written. A is second to the right of F and is not sitting at any of the extreme end.",
+        "question": "Find the difference between the card number of E and card no. of C?",
+        "options": [
+            "9",
+            "13",
+            "4",
+            "7",
+            "None of these"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Eight students A, B, C, D, E, F, G and H of class 5th are sitting in a row for getting a photograph clicked. They all are having a card in their pocket with a different number viz. 3, 5, 7, 14, 11, 15, 18 and 20 written on it not necessarily in the same order. F is sitting third to the right of B, who is having card on which the written no. is half of the no. written on H\u2019s card who is sitting second to the left of F. One who is having card on which 5th multiple no. of that number which is written on a card of another student is sitting fifth from the left end of the row. G is immediate neighbour of F. Person having smallest prime no. card is sitting second to the left of one whose card no. if subtracted from the card no. of his immediate right neighbour who is C, the resultant will be equal to the card no. of D. A is having card on which second lowest no. is written and is sitting to the immediate right of one having card on which second highest no. is written. A is second to the right of F and is not sitting at any of the extreme end.",
+        "question": "Who is sitting to the immediate left of A?",
+        "options": [
+            "D",
+            "G",
+            "F",
+            "B",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Eight friends namely Aachman, Sajal, Neha, Raheem, Lovely, Pramod, Rajneet and Megha of St. Xavier\u2019s college decided to go for dinner after summiting their final project report to the project head of their college. In a multi cuisine restaurant they all are sitting around a circular table but not necessarily in the same order. Before starting dinner they decided to play a game for which four of them are facing the centre, while four of them are not facing the centre. Not more than two persons facing the same directions can sit together. Raheem is not an immediate neighbor of Sajal. Pramod is an immediate neighbor of Raheem. Neha is an immediate neighbor of Rajneet, who sits second to the left of Aachman. Sajal sits third to the right of Megha. Lovely is not facing the centre. Both the immediate neighbours of Lovely are facing the centre. Megha sits second to the right of Lovely. Both the immediate neighbours of Raheem are not facing the centre. The one who is opposite Aachman is facing the centre. Raheem sits on the immediate left of Lovely. Both the immediate neighbours of Sajal are facing the same direction.",
+        "question": "Which of the following statements is true?",
+        "options": [
+            "Aachman is not facing the centre.",
+            "Raheem is on the immediate right of Lovely",
+            "Neha sits exactly between Sajal and Rajneet and is facing outward.",
+            "Sajal sits opposite Megha",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Eight friends namely Aachman, Sajal, Neha, Raheem, Lovely, Pramod, Rajneet and Megha of St. Xavier\u2019s college decided to go for dinner after summiting their final project report to the project head of their college. In a multi cuisine restaurant they all are sitting around a circular table but not necessarily in the same order. Before starting dinner they decided to play a game for which four of them are facing the centre, while four of them are not facing the centre. Not more than two persons facing the same directions can sit together. Raheem is not an immediate neighbor of Sajal. Pramod is an immediate neighbor of Raheem. Neha is an immediate neighbor of Rajneet, who sits second to the left of Aachman. Sajal sits third to the right of Megha. Lovely is not facing the centre. Both the immediate neighbours of Lovely are facing the centre. Megha sits second to the right of Lovely. Both the immediate neighbours of Raheem are not facing the centre. The one who is opposite Aachman is facing the centre. Raheem sits on the immediate left of Lovely. Both the immediate neighbours of Sajal are facing the same direction.",
+        "question": "How many persons are there between Aachman and Neha (when counted in clockwise direction from Aachman)?",
+        "options": [
+            "One",
+            "Three",
+            "Two",
+            "Four",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Eight friends namely Aachman, Sajal, Neha, Raheem, Lovely, Pramod, Rajneet and Megha of St. Xavier\u2019s college decided to go for dinner after summiting their final project report to the project head of their college. In a multi cuisine restaurant they all are sitting around a circular table but not necessarily in the same order. Before starting dinner they decided to play a game for which four of them are facing the centre, while four of them are not facing the centre. Not more than two persons facing the same directions can sit together. Raheem is not an immediate neighbor of Sajal. Pramod is an immediate neighbor of Raheem. Neha is an immediate neighbor of Rajneet, who sits second to the left of Aachman. Sajal sits third to the right of Megha. Lovely is not facing the centre. Both the immediate neighbours of Lovely are facing the centre. Megha sits second to the right of Lovely. Both the immediate neighbours of Raheem are not facing the centre. The one who is opposite Aachman is facing the centre. Raheem sits on the immediate left of Lovely. Both the immediate neighbours of Sajal are facing the same direction.",
+        "question": "Four of the following five are alike in a certain way and hence form a group. Which is the one that does not belong to that group?",
+        "options": [
+            "Raheem, Aachman",
+            "Rajneet, Sajal",
+            "Aachman, Sajal",
+            "Pramod, Sajal",
+            "Lovely, Megha"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Eight friends namely Aachman, Sajal, Neha, Raheem, Lovely, Pramod, Rajneet and Megha of St. Xavier\u2019s college decided to go for dinner after summiting their final project report to the project head of their college. In a multi cuisine restaurant they all are sitting around a circular table but not necessarily in the same order. Before starting dinner they decided to play a game for which four of them are facing the centre, while four of them are not facing the centre. Not more than two persons facing the same directions can sit together. Raheem is not an immediate neighbor of Sajal. Pramod is an immediate neighbor of Raheem. Neha is an immediate neighbor of Rajneet, who sits second to the left of Aachman. Sajal sits third to the right of Megha. Lovely is not facing the centre. Both the immediate neighbours of Lovely are facing the centre. Megha sits second to the right of Lovely. Both the immediate neighbours of Raheem are not facing the centre. The one who is opposite Aachman is facing the centre. Raheem sits on the immediate left of Lovely. Both the immediate neighbours of Sajal are facing the same direction.",
+        "question": "Who among the following sits third to the right of the one who is on the immediate left of Megha?",
+        "options": [
+            "Neha",
+            "Pramod",
+            "Raheem",
+            "Rajneet",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Eight friends namely Aachman, Sajal, Neha, Raheem, Lovely, Pramod, Rajneet and Megha of St. Xavier\u2019s college decided to go for dinner after summiting their final project report to the project head of their college. In a multi cuisine restaurant they all are sitting around a circular table but not necessarily in the same order. Before starting dinner they decided to play a game for which four of them are facing the centre, while four of them are not facing the centre. Not more than two persons facing the same directions can sit together. Raheem is not an immediate neighbor of Sajal. Pramod is an immediate neighbor of Raheem. Neha is an immediate neighbor of Rajneet, who sits second to the left of Aachman. Sajal sits third to the right of Megha. Lovely is not facing the centre. Both the immediate neighbours of Lovely are facing the centre. Megha sits second to the right of Lovely. Both the immediate neighbours of Raheem are not facing the centre. The one who is opposite Aachman is facing the centre. Raheem sits on the immediate left of Lovely. Both the immediate neighbours of Sajal are facing the same direction.",
+        "question": "Who among the following sits on the immediate right of Megha?",
+        "options": [
+            "Raheem",
+            "Sajal",
+            "Aachman",
+            "Rajneet",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "O, P, Q, R, S, T and U are sitting in a straight line all facing north direction, but not necessarily in the same order. There is only one person sitting between T and Q. S sits between O and R. There are only two persons between S and U. T sits on the immediate left of O, who sits in the middle of the row.",
+        "question": "Which of the following pairs of person are sitting at the extreme ends?",
+        "options": [
+            "U, P",
+            "R, Q",
+            "P, Q",
+            "O, T",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "O, P, Q, R, S, T and U are sitting in a straight line all facing north direction, but not necessarily in the same order. There is only one person sitting between T and Q. S sits between O and R. There are only two persons between S and U. T sits on the immediate left of O, who sits in the middle of the row.",
+        "question": "Which of the following persons is sitting between O and R?",
+        "options": [
+            "S",
+            "P",
+            "Q",
+            "U",
+            "None of these"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "O, P, Q, R, S, T and U are sitting in a straight line all facing north direction, but not necessarily in the same order. There is only one person sitting between T and Q. S sits between O and R. There are only two persons between S and U. T sits on the immediate left of O, who sits in the middle of the row.",
+        "question": "Which of the following statements is incorrect?",
+        "options": [
+            "Q is second to the left of T.",
+            "P is second to the right of S.",
+            "O and S are immediate neighbours of T.",
+            "R is immediate left of P",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "O, P, Q, R, S, T and U are sitting in a straight line all facing north direction, but not necessarily in the same order. There is only one person sitting between T and Q. S sits between O and R. There are only two persons between S and U. T sits on the immediate left of O, who sits in the middle of the row.",
+        "question": "Which of the following person is sitting third to the left of R?",
+        "options": [
+            "Q",
+            "T",
+            "P",
+            "O",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "O, P, Q, R, S, T and U are sitting in a straight line all facing north direction, but not necessarily in the same order. There is only one person sitting between T and Q. S sits between O and R. There are only two persons between S and U. T sits on the immediate left of O, who sits in the middle of the row.",
+        "question": "How many persons are sitting between Q and S?",
+        "options": [
+            "Only one",
+            "None",
+            "Two",
+            "Three",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Ten Friends Harish, Ratan, Manish, Arpit, Vivek, Daya, Rajan, Aman, Sachin and Rohit are seated in two rows facing each other. 5 of them are facing north and 5 are facing south but not necessarily in the same order. The arrangement is based on the following rules: Harish is seated 3rd to the right of Arpit. Ratan is to the immediate right of the person who is sitting in front of Arpit. Arpit and Vivek are the immediate neighbours of Sachin. Rajan is 4th to the left of the person who is in front of Aman. Aman is 2nd to the left of Rohit. Manish is facing the north and is seated to the left of Daya.",
+        "question": "Who among the following is in front of Rajan?",
+        "options": [
+            "Arpit",
+            "Daya",
+            "Aman",
+            "Ratan",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Ten Friends Harish, Ratan, Manish, Arpit, Vivek, Daya, Rajan, Aman, Sachin and Rohit are seated in two rows facing each other. 5 of them are facing north and 5 are facing south but not necessarily in the same order. The arrangement is based on the following rules: Harish is seated 3rd to the right of Arpit. Ratan is to the immediate right of the person who is sitting in front of Arpit. Arpit and Vivek are the immediate neighbours of Sachin. Rajan is 4th to the left of the person who is in front of Aman. Aman is 2nd to the left of Rohit. Manish is facing the north and is seated to the left of Daya.",
+        "question": "Who among the following is sitting second to the left of Daya?",
+        "options": [
+            "Manish",
+            "Vivek",
+            "Arpit",
+            "Aman",
+            "None of these"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Ten Friends Harish, Ratan, Manish, Arpit, Vivek, Daya, Rajan, Aman, Sachin and Rohit are seated in two rows facing each other. 5 of them are facing north and 5 are facing south but not necessarily in the same order. The arrangement is based on the following rules: Harish is seated 3rd to the right of Arpit. Ratan is to the immediate right of the person who is sitting in front of Arpit. Arpit and Vivek are the immediate neighbours of Sachin. Rajan is 4th to the left of the person who is in front of Aman. Aman is 2nd to the left of Rohit. Manish is facing the north and is seated to the left of Daya.",
+        "question": "How many persons are there between Aman and Ratan?",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "Can't be determined"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Ten Friends Harish, Ratan, Manish, Arpit, Vivek, Daya, Rajan, Aman, Sachin and Rohit are seated in two rows facing each other. 5 of them are facing north and 5 are facing south but not necessarily in the same order. The arrangement is based on the following rules: Harish is seated 3rd to the right of Arpit. Ratan is to the immediate right of the person who is sitting in front of Arpit. Arpit and Vivek are the immediate neighbours of Sachin. Rajan is 4th to the left of the person who is in front of Aman. Aman is 2nd to the left of Rohit. Manish is facing the north and is seated to the left of Daya.",
+        "question": "Who among the following persons is/are sitting at the extreme end of the row?",
+        "options": [
+            "Vivek",
+            "Arpit",
+            "Ratan",
+            "Either Vivek or Arpit",
+            "Either Arpit or Rohit"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Ten Friends Harish, Ratan, Manish, Arpit, Vivek, Daya, Rajan, Aman, Sachin and Rohit are seated in two rows facing each other. 5 of them are facing north and 5 are facing south but not necessarily in the same order. The arrangement is based on the following rules: Harish is seated 3rd to the right of Arpit. Ratan is to the immediate right of the person who is sitting in front of Arpit. Arpit and Vivek are the immediate neighbours of Sachin. Rajan is 4th to the left of the person who is in front of Aman. Aman is 2nd to the left of Rohit. Manish is facing the north and is seated to the left of Daya.",
+        "question": "Four of the following five are alike in a certain way and so form a group. Which is the one that doesn\u2019t belong to the group?",
+        "options": [
+            "Vivek",
+            "Rohit",
+            "Sachin",
+            "Manish",
+            "Arpit"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "A group of five boys viz. Saurabh, Vinod, Ramesh, Yogi and Raj and a group of five girls viz. Soniya, Madhu, Poonam, Gomti and Kusha are standing in two separate rows facing each other but not necessarily in the same order. The group of boys is facing north. Raj is not at any of the ends. Ramesh is to the immediate right of Vinod and Yogi is to the immediate left of Saurabh, who is facing Soniya. There are as many girls between Soniya and Madhu as between Poonam and Gomti. Saurabh is second to the left of Vinod, Gomti and Poonam are not facing either Vinod or Yogi.",
+        "question": "Which one of the following is third to the right of Yogi?",
+        "options": [
+            "Ramesh",
+            "Raj",
+            "Vinod",
+            "Cannot be determined",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "A group of five boys viz. Saurabh, Vinod, Ramesh, Yogi and Raj and a group of five girls viz. Soniya, Madhu, Poonam, Gomti and Kusha are standing in two separate rows facing each other but not necessarily in the same order. The group of boys is facing north. Raj is not at any of the ends. Ramesh is to the immediate right of Vinod and Yogi is to the immediate left of Saurabh, who is facing Soniya. There are as many girls between Soniya and Madhu as between Poonam and Gomti. Saurabh is second to the left of Vinod, Gomti and Poonam are not facing either Vinod or Yogi.",
+        "question": "Four of the following five are alike in a certain way and thus form a group. Which one of the following does not belong to that group?",
+        "options": [
+            "Yogi \u2013 Saurabh",
+            "Madhu \u2013 Gomti",
+            "Poonam \u2013 Madhu",
+            "Kusha \u2013 Poonam",
+            "Raj \u2013 Vinod"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "A group of five boys viz. Saurabh, Vinod, Ramesh, Yogi and Raj and a group of five girls viz. Soniya, Madhu, Poonam, Gomti and Kusha are standing in two separate rows facing each other but not necessarily in the same order. The group of boys is facing north. Raj is not at any of the ends. Ramesh is to the immediate right of Vinod and Yogi is to the immediate left of Saurabh, who is facing Soniya. There are as many girls between Soniya and Madhu as between Poonam and Gomti. Saurabh is second to the left of Vinod, Gomti and Poonam are not facing either Vinod or Yogi.",
+        "question": "Which one of the following is positioned in front of Vinod?",
+        "options": [
+            "Madhu",
+            "Kusha",
+            "Poonam",
+            "Gomti",
+            "None of these"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "A group of five boys viz. Saurabh, Vinod, Ramesh, Yogi and Raj and a group of five girls viz. Soniya, Madhu, Poonam, Gomti and Kusha are standing in two separate rows facing each other but not necessarily in the same order. The group of boys is facing north. Raj is not at any of the ends. Ramesh is to the immediate right of Vinod and Yogi is to the immediate left of Saurabh, who is facing Soniya. There are as many girls between Soniya and Madhu as between Poonam and Gomti. Saurabh is second to the left of Vinod, Gomti and Poonam are not facing either Vinod or Yogi.",
+        "question": "Which of the following are positioned at corners?",
+        "options": [
+            "Kusha \u2013 Ramesh",
+            "Soniya \u2013 Vinod",
+            "Madhu \u2013 Yogi",
+            "Gomti - Poonam",
+            "None of these"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "A group of five boys viz. Saurabh, Vinod, Ramesh, Yogi and Raj and a group of five girls viz. Soniya, Madhu, Poonam, Gomti and Kusha are standing in two separate rows facing each other but not necessarily in the same order. The group of boys is facing north. Raj is not at any of the ends. Ramesh is to the immediate right of Vinod and Yogi is to the immediate left of Saurabh, who is facing Soniya. There are as many girls between Soniya and Madhu as between Poonam and Gomti. Saurabh is second to the left of Vinod, Gomti and Poonam are not facing either Vinod or Yogi.",
+        "question": "Who is positioned between Poonam and Gomti?",
+        "options": [
+            "Soniya",
+            "Madhu",
+            "Kusha",
+            "Cannot be determined",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "A meeting is fixed for finalizing the house captains of Symboyzia public school. Principal, director, vice principal and senior teachers namely - Aarti, Shweta, Kavya, Ram, Shyam, Gajendra, Amisha and Hakim (not necessarily in the same order) sit around a circular table facing the Centre. Neither two males nor two females can be immediate neighbours. Aarti is wife of Hakim. Aarti sits third to the left of Shyam. Gajendra sits second to the right of Ram. Ram is not an immediate neighbour of Aarti or Shyam. Hakim and Kavya are immediate neighbours of each other. Gajendra is not an immediate neighbour of his wife Shweta. (In the given information the names mentioned do not suggest the genders in any way.)",
+        "question": "Who sits third to the left of Shweta?",
+        "options": [
+            "Kavya",
+            "Hakim",
+            "Shyam",
+            "Ram",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "A meeting is fixed for finalizing the house captains of Symboyzia public school. Principal, director, vice principal and senior teachers namely - Aarti, Shweta, Kavya, Ram, Shyam, Gajendra, Amisha and Hakim (not necessarily in the same order) sit around a circular table facing the Centre. Neither two males nor two females can be immediate neighbours. Aarti is wife of Hakim. Aarti sits third to the left of Shyam. Gajendra sits second to the right of Ram. Ram is not an immediate neighbour of Aarti or Shyam. Hakim and Kavya are immediate neighbours of each other. Gajendra is not an immediate neighbour of his wife Shweta. (In the given information the names mentioned do not suggest the genders in any way.)",
+        "question": "How many people sit between Shweta and Gajendra when counted in anti-clockwise direction from Shweta?",
+        "options": [
+            "4",
+            "5",
+            "3",
+            "2",
+            "None of these"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "A meeting is fixed for finalizing the house captains of Symboyzia public school. Principal, director, vice principal and senior teachers namely - Aarti, Shweta, Kavya, Ram, Shyam, Gajendra, Amisha and Hakim (not necessarily in the same order) sit around a circular table facing the Centre. Neither two males nor two females can be immediate neighbours. Aarti is wife of Hakim. Aarti sits third to the left of Shyam. Gajendra sits second to the right of Ram. Ram is not an immediate neighbour of Aarti or Shyam. Hakim and Kavya are immediate neighbours of each other. Gajendra is not an immediate neighbour of his wife Shweta. (In the given information the names mentioned do not suggest the genders in any way.)",
+        "question": "Four of the following five are alike in a certain way and so form a group. Which is the one that does not belong to that group?",
+        "options": [
+            "Gajendra",
+            "Shyam",
+            "Ram",
+            "Hakim",
+            "Kavya"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "A meeting is fixed for finalizing the house captains of Symboyzia public school. Principal, director, vice principal and senior teachers namely - Aarti, Shweta, Kavya, Ram, Shyam, Gajendra, Amisha and Hakim (not necessarily in the same order) sit around a circular table facing the Centre. Neither two males nor two females can be immediate neighbours. Aarti is wife of Hakim. Aarti sits third to the left of Shyam. Gajendra sits second to the right of Ram. Ram is not an immediate neighbour of Aarti or Shyam. Hakim and Kavya are immediate neighbours of each other. Gajendra is not an immediate neighbour of his wife Shweta. (In the given information the names mentioned do not suggest the genders in any way.)",
+        "question": "Who sits to the immediate right of Ram?",
+        "options": [
+            "Gajendra",
+            "Aarti",
+            "Amisha",
+            "Shweta",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "A meeting is fixed for finalizing the house captains of Symboyzia public school. Principal, director, vice principal and senior teachers namely - Aarti, Shweta, Kavya, Ram, Shyam, Gajendra, Amisha and Hakim (not necessarily in the same order) sit around a circular table facing the Centre. Neither two males nor two females can be immediate neighbours. Aarti is wife of Hakim. Aarti sits third to the left of Shyam. Gajendra sits second to the right of Ram. Ram is not an immediate neighbour of Aarti or Shyam. Hakim and Kavya are immediate neighbours of each other. Gajendra is not an immediate neighbour of his wife Shweta. (In the given information the names mentioned do not suggest the genders in any way.)",
+        "question": "Who sits between Amisha and Aarti?",
+        "options": [
+            "Gajendra",
+            "Hakim",
+            "Kavya",
+            "Cannot be determined",
+            "None of these"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Eight persons namely - A, B, C, P, Q, R, S and T are sitting around a circular table facing the centre, but not necessarily in the same order. There are only three males in the group. C sits third to the right of Q. R sits second to the right of her husband T. T is not an immediate neighbour of Q\u2019s wife. The wife of Q sits second to the left of her husband. S is not an immediate neighbour of Q. P is a male member. B is not an immediate neighbour of S. No two males sit together.",
+        "question": "What is the position of P with respect to T?",
+        "options": [
+            "Immediate right",
+            "Second to the right",
+            "Third to the left",
+            "Third to the right",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Eight persons namely - A, B, C, P, Q, R, S and T are sitting around a circular table facing the centre, but not necessarily in the same order. There are only three males in the group. C sits third to the right of Q. R sits second to the right of her husband T. T is not an immediate neighbour of Q\u2019s wife. The wife of Q sits second to the left of her husband. S is not an immediate neighbour of Q. P is a male member. B is not an immediate neighbour of S. No two males sit together.",
+        "question": "Which of the following statements is true?",
+        "options": [
+            "C is one of the male members of the group.",
+            "Both the immediate neighbours of R are females.",
+            "A is not a male member.",
+            "S sits third to the right of B.",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Eight persons namely - A, B, C, P, Q, R, S and T are sitting around a circular table facing the centre, but not necessarily in the same order. There are only three males in the group. C sits third to the right of Q. R sits second to the right of her husband T. T is not an immediate neighbour of Q\u2019s wife. The wife of Q sits second to the left of her husband. S is not an immediate neighbour of Q. P is a male member. B is not an immediate neighbour of S. No two males sit together.",
+        "question": "Who among the following is wife of Q?",
+        "options": [
+            "S",
+            "C",
+            "T",
+            "A",
+            "None of these"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Eight persons namely - A, B, C, P, Q, R, S and T are sitting around a circular table facing the centre, but not necessarily in the same order. There are only three males in the group. C sits third to the right of Q. R sits second to the right of her husband T. T is not an immediate neighbour of Q\u2019s wife. The wife of Q sits second to the left of her husband. S is not an immediate neighbour of Q. P is a male member. B is not an immediate neighbour of S. No two males sit together.",
+        "question": "Which of the following pairs represents the immediate neighbours of P?",
+        "options": [
+            "A, B",
+            "R, T",
+            "C, S",
+            "S, R",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Eight persons namely - A, B, C, P, Q, R, S and T are sitting around a circular table facing the centre, but not necessarily in the same order. There are only three males in the group. C sits third to the right of Q. R sits second to the right of her husband T. T is not an immediate neighbour of Q\u2019s wife. The wife of Q sits second to the left of her husband. S is not an immediate neighbour of Q. P is a male member. B is not an immediate neighbour of S. No two males sit together.",
+        "question": "Find the total amount collected at the station B on selling all the tickets.",
+        "options": [
+            "A",
+            "R",
+            "C",
+            "T",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Eight friends namely - Akansha, Babita, Cheena, Diksha, Eshan, Farhan, Gopal and Piyush are sitting in a straight line equidistant from each other (but not necessary in the same order). Some of them are facing north while some are facing south. (Note: Facing the same direction means if one is facing north then the other is also facing north and if one is facing south then the other is also facing south. Facing the opposite directions means if one is facing north then the other is facing south and vice versa.) Farhan sits third to the right of Akansha. Farhan sits at one of the extreme ends. Eshan sits third to the left of Akansha. Both the immediate neighbours of Cheena face north. Gopal is not an immediate neighbour of Akansha. The persons sitting at the extreme ends face the same direction. Both the immediate neighbours of Akansha face the direction opposite that of Farhan. Both the immediate neighbours of Piyush face opposite directions. Diksha is one of the immediate neighbours of Eshan and is facing north. Babita sits exactly between Cheena and Farhan. Not more than four persons are facing north. Eshan sits on the immediate right of Diksha.",
+        "question": "Who among the following sits third to the left of Gopal?",
+        "options": [
+            "Diksha",
+            "Cheena",
+            "Akansha",
+            "Babita",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Eight friends namely - Akansha, Babita, Cheena, Diksha, Eshan, Farhan, Gopal and Piyush are sitting in a straight line equidistant from each other (but not necessary in the same order). Some of them are facing north while some are facing south. (Note: Facing the same direction means if one is facing north then the other is also facing north and if one is facing south then the other is also facing south. Facing the opposite directions means if one is facing north then the other is facing south and vice versa.) Farhan sits third to the right of Akansha. Farhan sits at one of the extreme ends. Eshan sits third to the left of Akansha. Both the immediate neighbours of Cheena face north. Gopal is not an immediate neighbour of Akansha. The persons sitting at the extreme ends face the same direction. Both the immediate neighbours of Akansha face the direction opposite that of Farhan. Both the immediate neighbours of Piyush face opposite directions. Diksha is one of the immediate neighbours of Eshan and is facing north. Babita sits exactly between Cheena and Farhan. Not more than four persons are facing north. Eshan sits on the immediate right of Diksha.",
+        "question": "Which of the following pairs are the immediate neighbours of Eshan?",
+        "options": [
+            "Farhan and Diksha",
+            "Diksha and Piyush",
+            "Diksha and Gopal",
+            "Diksha and Akansha",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Eight friends namely - Akansha, Babita, Cheena, Diksha, Eshan, Farhan, Gopal and Piyush are sitting in a straight line equidistant from each other (but not necessary in the same order). Some of them are facing north while some are facing south. (Note: Facing the same direction means if one is facing north then the other is also facing north and if one is facing south then the other is also facing south. Facing the opposite directions means if one is facing north then the other is facing south and vice versa.) Farhan sits third to the right of Akansha. Farhan sits at one of the extreme ends. Eshan sits third to the left of Akansha. Both the immediate neighbours of Cheena face north. Gopal is not an immediate neighbour of Akansha. The persons sitting at the extreme ends face the same direction. Both the immediate neighbours of Akansha face the direction opposite that of Farhan. Both the immediate neighbours of Piyush face opposite directions. Diksha is one of the immediate neighbours of Eshan and is facing north. Babita sits exactly between Cheena and Farhan. Not more than four persons are facing north. Eshan sits on the immediate right of Diksha.",
+        "question": "How many persons are sitting between Babita and Piyush?",
+        "options": [
+            "Three",
+            "Four",
+            "One",
+            "Two",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Eight friends namely - Akansha, Babita, Cheena, Diksha, Eshan, Farhan, Gopal and Piyush are sitting in a straight line equidistant from each other (but not necessary in the same order). Some of them are facing north while some are facing south. (Note: Facing the same direction means if one is facing north then the other is also facing north and if one is facing south then the other is also facing south. Facing the opposite directions means if one is facing north then the other is facing south and vice versa.) Farhan sits third to the right of Akansha. Farhan sits at one of the extreme ends. Eshan sits third to the left of Akansha. Both the immediate neighbours of Cheena face north. Gopal is not an immediate neighbour of Akansha. The persons sitting at the extreme ends face the same direction. Both the immediate neighbours of Akansha face the direction opposite that of Farhan. Both the immediate neighbours of Piyush face opposite directions. Diksha is one of the immediate neighbours of Eshan and is facing north. Babita sits exactly between Cheena and Farhan. Not more than four persons are facing north. Eshan sits on the immediate right of Diksha.",
+        "question": "Four of the following five are alike in a certain way and thus form a group. Which is the one that does not belong to that group?",
+        "options": [
+            "Gopal",
+            "Eshan",
+            "Piyush",
+            "Cheena",
+            "Diksha"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "Eight friends namely - Akansha, Babita, Cheena, Diksha, Eshan, Farhan, Gopal and Piyush are sitting in a straight line equidistant from each other (but not necessary in the same order). Some of them are facing north while some are facing south. (Note: Facing the same direction means if one is facing north then the other is also facing north and if one is facing south then the other is also facing south. Facing the opposite directions means if one is facing north then the other is facing south and vice versa.) Farhan sits third to the right of Akansha. Farhan sits at one of the extreme ends. Eshan sits third to the left of Akansha. Both the immediate neighbours of Cheena face north. Gopal is not an immediate neighbour of Akansha. The persons sitting at the extreme ends face the same direction. Both the immediate neighbours of Akansha face the direction opposite that of Farhan. Both the immediate neighbours of Piyush face opposite directions. Diksha is one of the immediate neighbours of Eshan and is facing north. Babita sits exactly between Cheena and Farhan. Not more than four persons are facing north. Eshan sits on the immediate right of Diksha.",
+        "question": "Who among the following sits fourth to the right of Cheena?",
+        "options": [
+            "Gopal",
+            "Babita",
+            "Akansha",
+            "Eshan",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Nine persons \u2013 Chaya, Dimple, Beena, Ajit, Jaya, Fatima, Gagan, Hemant and Kaushal \u2013 are sitting in a straight line facing north, but not necessarily in the same order. Beena is fourth to the left of Gagan; Fatima is fourth to the right of Chaya and second to the left of Kaushal, who is fifth to the right of Ajit. Dimple is not an immediate neighbour of either Kaushal or Beena. There are only three persons between Jaya and Ajit. Gagan is second to the right of Chaya.",
+        "question": "In which of the following combinations is the third person sitting between the first and the second person?",
+        "options": [
+            "Jaya, Kaushal, Beena",
+            "Chaya, Hemant, Beena",
+            "Ajit, Gagan, Chaya",
+            "Fatima, Gagan, Dimple",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Nine persons \u2013 Chaya, Dimple, Beena, Ajit, Jaya, Fatima, Gagan, Hemant and Kaushal \u2013 are sitting in a straight line facing north, but not necessarily in the same order. Beena is fourth to the left of Gagan; Fatima is fourth to the right of Chaya and second to the left of Kaushal, who is fifth to the right of Ajit. Dimple is not an immediate neighbour of either Kaushal or Beena. There are only three persons between Jaya and Ajit. Gagan is second to the right of Chaya.",
+        "question": "Who among the following sits third to the right of Hemant?",
+        "options": [
+            "Gagan",
+            "Dimple",
+            "Jaya",
+            "Beena",
+            "None of these"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Nine persons \u2013 Chaya, Dimple, Beena, Ajit, Jaya, Fatima, Gagan, Hemant and Kaushal \u2013 are sitting in a straight line facing north, but not necessarily in the same order. Beena is fourth to the left of Gagan; Fatima is fourth to the right of Chaya and second to the left of Kaushal, who is fifth to the right of Ajit. Dimple is not an immediate neighbour of either Kaushal or Beena. There are only three persons between Jaya and Ajit. Gagan is second to the right of Chaya.",
+        "question": "Who among the following sits third to the left of Jaya?",
+        "options": [
+            "Kaushal",
+            "Gagan",
+            "Dimple",
+            "Beena",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Nine persons \u2013 Chaya, Dimple, Beena, Ajit, Jaya, Fatima, Gagan, Hemant and Kaushal \u2013 are sitting in a straight line facing north, but not necessarily in the same order. Beena is fourth to the left of Gagan; Fatima is fourth to the right of Chaya and second to the left of Kaushal, who is fifth to the right of Ajit. Dimple is not an immediate neighbour of either Kaushal or Beena. There are only three persons between Jaya and Ajit. Gagan is second to the right of Chaya.",
+        "question": "Who among the following sit at the extreme ends of the line?",
+        "options": [
+            "Ajit, Dimple",
+            "Hemant, Jaya",
+            "Kaushal, Beena",
+            "Chaya, Kaushal",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Nine persons \u2013 Chaya, Dimple, Beena, Ajit, Jaya, Fatima, Gagan, Hemant and Kaushal \u2013 are sitting in a straight line facing north, but not necessarily in the same order. Beena is fourth to the left of Gagan; Fatima is fourth to the right of Chaya and second to the left of Kaushal, who is fifth to the right of Ajit. Dimple is not an immediate neighbour of either Kaushal or Beena. There are only three persons between Jaya and Ajit. Gagan is second to the right of Chaya.",
+        "question": "If Kaushal and Hemant exchange their places, then who among the following sits on the immediate right of Kaushal?",
+        "options": [
+            "Chaya",
+            "Jaya",
+            "Beena",
+            "Ajit",
+            "None of these"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "8 friends A, B, C, D, E, F, G and H sit around a circular table facing inside and like basketball, football, cricket, badminton, kho kho, table tennis, hockey, and volleyball. The one who likes football sit between C and E. H sits 2nd to the right of the friend who likes basketball. B is the neighbour of the one who likes basketball. The friend who likes table tennis sits opposite to G. E likes cricket and sits immediate right of F. A and D both don\u2019t like either badminton or table tennis. G likes kho kho and sits 2nd to the right of the one who likes volleyball. F doesn\u2019t like football. B likes hockey.",
+        "question": "H likes which game?",
+        "options": [
+            "Basketball",
+            "Football",
+            "Badminton",
+            "Table Tennis",
+            "Volleyball"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "8 friends A, B, C, D, E, F, G and H sit around a circular table facing inside and like basketball, football, cricket, badminton, kho kho, table tennis, hockey, and volleyball. The one who likes football sit between C and E. H sits 2nd to the right of the friend who likes basketball. B is the neighbour of the one who likes basketball. The friend who likes table tennis sits opposite to G. E likes cricket and sits immediate right of F. A and D both don\u2019t like either badminton or table tennis. G likes kho kho and sits 2nd to the right of the one who likes volleyball. F doesn\u2019t like football. B likes hockey.",
+        "question": "Who sits between the one who likes Basketball and the one who likes Football?",
+        "options": [
+            "G",
+            "H",
+            "F",
+            "E",
+            "D"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "8 friends A, B, C, D, E, F, G and H sit around a circular table facing inside and like basketball, football, cricket, badminton, kho kho, table tennis, hockey, and volleyball. The one who likes football sit between C and E. H sits 2nd to the right of the friend who likes basketball. B is the neighbour of the one who likes basketball. The friend who likes table tennis sits opposite to G. E likes cricket and sits immediate right of F. A and D both don\u2019t like either badminton or table tennis. G likes kho kho and sits 2nd to the right of the one who likes volleyball. F doesn\u2019t like football. B likes hockey.",
+        "question": "A likes which game?",
+        "options": [
+            "Volleyball",
+            "Basketball",
+            "Football",
+            "Table Tennis",
+            "Either option A or C"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "8 friends A, B, C, D, E, F, G and H sit around a circular table facing inside and like basketball, football, cricket, badminton, kho kho, table tennis, hockey, and volleyball. The one who likes football sit between C and E. H sits 2nd to the right of the friend who likes basketball. B is the neighbour of the one who likes basketball. The friend who likes table tennis sits opposite to G. E likes cricket and sits immediate right of F. A and D both don\u2019t like either badminton or table tennis. G likes kho kho and sits 2nd to the right of the one who likes volleyball. F doesn\u2019t like football. B likes hockey.",
+        "question": "Who sits 2nd to the right of F?",
+        "options": [
+            "A",
+            "D",
+            "F",
+            "C",
+            "Can't be determined"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "8 friends A, B, C, D, E, F, G and H sit around a circular table facing inside and like basketball, football, cricket, badminton, kho kho, table tennis, hockey, and volleyball. The one who likes football sit between C and E. H sits 2nd to the right of the friend who likes basketball. B is the neighbour of the one who likes basketball. The friend who likes table tennis sits opposite to G. E likes cricket and sits immediate right of F. A and D both don\u2019t like either badminton or table tennis. G likes kho kho and sits 2nd to the right of the one who likes volleyball. F doesn\u2019t like football. B likes hockey.",
+        "question": "How many friend(s) sit between F and the one who likes Football when counted in anticlockwise direction from F?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Seven friends A, B, C, D, E, F, and G are sitting around a circular table facing either the centre or outside. Each one of them belongs to a different department viz. Finance, Marketing Sales, HR, Corporate Finance, Investment Banking, and Operations but not necessarily in the same order. C sits third to the right of G. G faces the centre. Only one person sits between C and the person working in the HR department; immediate neighbours of C face outside. Only one person sits between F and D. Both F and D face the centre. D does not work in the HR department. A works in the Investment Banking Department. A faces the centre. Two people sit between the persons who work in Investment Banking and Marketing Departments. The person who works in Corporate Finance sits to the immediate left of E. C faces the same direction as E. The person who works in corporate finance sits to the immediate left of the person who works for the Operations Department.",
+        "question": "For which of the following departments does B work?",
+        "options": [
+            "Finance",
+            "Marketing",
+            "HR",
+            "Corporate Finance",
+            "Operations"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Seven friends A, B, C, D, E, F, and G are sitting around a circular table facing either the centre or outside. Each one of them belongs to a different department viz. Finance, Marketing Sales, HR, Corporate Finance, Investment Banking, and Operations but not necessarily in the same order. C sits third to the right of G. G faces the centre. Only one person sits between C and the person working in the HR department; immediate neighbours of C face outside. Only one person sits between F and D. Both F and D face the centre. D does not work in the HR department. A works in the Investment Banking Department. A faces the centre. Two people sit between the persons who work in Investment Banking and Marketing Departments. The person who works in Corporate Finance sits to the immediate left of E. C faces the same direction as E. The person who works in corporate finance sits to the immediate left of the person who works for the Operations Department.",
+        "question": "What is the position of B with respect to the person who works for the Sales Department?",
+        "options": [
+            "Immediate right",
+            "Third to the left",
+            "Second to the right",
+            "Second to the left",
+            "Fourth to the right"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Seven friends A, B, C, D, E, F, and G are sitting around a circular table facing either the centre or outside. Each one of them belongs to a different department viz. Finance, Marketing Sales, HR, Corporate Finance, Investment Banking, and Operations but not necessarily in the same order. C sits third to the right of G. G faces the centre. Only one person sits between C and the person working in the HR department; immediate neighbours of C face outside. Only one person sits between F and D. Both F and D face the centre. D does not work in the HR department. A works in the Investment Banking Department. A faces the centre. Two people sit between the persons who work in Investment Banking and Marketing Departments. The person who works in Corporate Finance sits to the immediate left of E. C faces the same direction as E. The person who works in corporate finance sits to the immediate left of the person who works for the Operations Department.",
+        "question": "Who sits to the immediate right of E?",
+        "options": [
+            "The person who works for the Marketing Department",
+            "C",
+            "B",
+            "The person who works for the HR Department",
+            "A"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "Seven friends A, B, C, D, E, F, and G are sitting around a circular table facing either the centre or outside. Each one of them belongs to a different department viz. Finance, Marketing Sales, HR, Corporate Finance, Investment Banking, and Operations but not necessarily in the same order. C sits third to the right of G. G faces the centre. Only one person sits between C and the person working in the HR department; immediate neighbours of C face outside. Only one person sits between F and D. Both F and D face the centre. D does not work in the HR department. A works in the Investment Banking Department. A faces the centre. Two people sit between the persons who work in Investment Banking and Marketing Departments. The person who works in Corporate Finance sits to the immediate left of E. C faces the same direction as E. The person who works in corporate finance sits to the immediate left of the person who works for the Operations Department.",
+        "question": "Who amongst the following sits exactly between C and the person who works for the HR Department?",
+        "options": [
+            "B",
+            "The person who works for the Marketing Department",
+            "The person who works for the Operations Department",
+            "D",
+            "G"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Eight persons namely A, B, C, D, E, F, G, and H are sitting in a straight line from East to West. Some are facing North direction and some are facing South direction. H sits to the third left of C and faces South. F is sitting at one of the extreme ends and is facing North. B and G are facing in the same direction, and the person sitting between them is facing in the opposite direction. A is sitting third from the left end and is facing the South direction. A is sitting adjacent to E, and both are facing in the opposite direction. D is sitting to the right of B, and both are facing in the same direction. C is facing in the North direction. A and D are not neighbors. Neighbors of H are facing in the same direction, which is opposite to the direction H is facing. E sits to the right of A.",
+        "question": "Who is sitting between A and H?",
+        "options": [
+            "F",
+            "E",
+            "G",
+            "B",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Eight persons namely A, B, C, D, E, F, G, and H are sitting in a straight line from East to West. Some are facing North direction and some are facing South direction. H sits to the third left of C and faces South. F is sitting at one of the extreme ends and is facing North. B and G are facing in the same direction, and the person sitting between them is facing in the opposite direction. A is sitting third from the left end and is facing the South direction. A is sitting adjacent to E, and both are facing in the opposite direction. D is sitting to the right of B, and both are facing in the same direction. C is facing in the North direction. A and D are not neighbors. Neighbors of H are facing in the same direction, which is opposite to the direction H is facing. E sits to the right of A.",
+        "question": "Which of the following pairs has the person facing the same direction?",
+        "options": [
+            "E, A",
+            "G, H",
+            "A, G",
+            "H, D",
+            "B, D"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "Eight persons namely A, B, C, D, E, F, G, and H are sitting in a straight line from East to West. Some are facing North direction and some are facing South direction. H sits to the third left of C and faces South. F is sitting at one of the extreme ends and is facing North. B and G are facing in the same direction, and the person sitting between them is facing in the opposite direction. A is sitting third from the left end and is facing the South direction. A is sitting adjacent to E, and both are facing in the opposite direction. D is sitting to the right of B, and both are facing in the same direction. C is facing in the North direction. A and D are not neighbors. Neighbors of H are facing in the same direction, which is opposite to the direction H is facing. E sits to the right of A.",
+        "question": "How many persons are facing in the North direction?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "Eight people E, F, G, H, J, K, L, and M are sitting around a circular table facing the centre. Each of them is of a different profession: Chartered Accountant, Columnist, Doctor, Engineer, Financial Analyst, Lawyer, Professor, and Scientist but not necessarily in the same order. F is sitting second to the left of K. The Scientist is an immediate neighbour of K. There are only three people between the Scientist and E. Only one person sits between the Engineer and E. The Columnist is to the immediate right of the Engineer. M is second to the right of K. H is the Scientist. G and J are immediate neighbours of each other. Neither G nor J is an Engineer. The Financial Analyst is to the immediate left of F. The Lawyer is second to the right of the Columnist. The Professor is an immediate neighbour of the Engineer. G is second to the right of the Chartered Accountant.",
+        "question": "Who is sitting second to the right of E?",
+        "options": [
+            "The Lawyer",
+            "G",
+            "The Engineer",
+            "F",
+            "K"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "Eight people E, F, G, H, J, K, L, and M are sitting around a circular table facing the centre. Each of them is of a different profession: Chartered Accountant, Columnist, Doctor, Engineer, Financial Analyst, Lawyer, Professor, and Scientist but not necessarily in the same order. F is sitting second to the left of K. The Scientist is an immediate neighbour of K. There are only three people between the Scientist and E. Only one person sits between the Engineer and E. The Columnist is to the immediate right of the Engineer. M is second to the right of K. H is the Scientist. G and J are immediate neighbours of each other. Neither G nor J is an Engineer. The Financial Analyst is to the immediate left of F. The Lawyer is second to the right of the Columnist. The Professor is an immediate neighbour of the Engineer. G is second to the right of the Chartered Accountant.",
+        "question": "Who amongst the following is the Professor?",
+        "options": [
+            "F",
+            "L",
+            "M",
+            "K",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "D, E, F, H, and I are seated in a circle facing the centre. A, B, and C are also seated in the same circle but two of them are not facing the centre. F is second to the left of C. E is third to the right of A. B is third to the left of D, who is an immediate neighbor of H and I. C is second to the right of D and third to the right of B.",
+        "question": "Which of the following pairs is not facing the centre?",
+        "options": [
+            "BC",
+            "AC",
+            "CA",
+            "BD",
+            "None of these"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "D, E, F, H, and I are seated in a circle facing the centre. A, B, and C are also seated in the same circle but two of them are not facing the centre. F is second to the left of C. E is third to the right of A. B is third to the left of D, who is an immediate neighbor of H and I. C is second to the right of D and third to the right of B.",
+        "question": "What is the position of D with respect to F?",
+        "options": [
+            "Second to the right",
+            "Third to the left",
+            "Fifth to the right",
+            "Cannot be determined",
+            "None of these"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "Twelve friends are sitting in two squares. One square is inside another. P, Q, R, S, T, and V are in the outer square facing inward. A, B, C, D, E, and F are sitting in the inner square facing outward. They all are sitting in such a way that in each square, four persons are sitting in the middle of the sides and two persons are sitting on diagonally opposite corners. Each friend in the inner square is facing another friend of the outer square. There are exactly two persons sitting between P and T. E sits second to the left of A. R is on the immediate left of the one who is facing A. Neither E nor A faces either T or P. S is facing F and Q is not opposite R in the outer square. T is not sitting adjacent to S. B is not facing P. Between B and D, there are as many persons as between R and V.",
+        "question": "Who is sitting opposite B?",
+        "options": [
+            "V",
+            "Q",
+            "T",
+            "Data inadequate",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "Twelve friends are sitting in two squares. One square is inside another. P, Q, R, S, T, and V are in the outer square facing inward. A, B, C, D, E, and F are sitting in the inner square facing outward. They all are sitting in such a way that in each square, four persons are sitting in the middle of the sides and two persons are sitting on diagonally opposite corners. Each friend in the inner square is facing another friend of the outer square. There are exactly two persons sitting between P and T. E sits second to the left of A. R is on the immediate left of the one who is facing A. Neither E nor A faces either T or P. S is facing F and Q is not opposite R in the outer square. T is not sitting adjacent to S. B is not facing P. Between B and D, there are as many persons as between R and V.",
+        "question": "V is facing which of the following persons?",
+        "options": [
+            "E",
+            "D",
+            "A",
+            "Data inadequate",
+            "None of these"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "Twelve friends are sitting in two squares. One square is inside another. P, Q, R, S, T, and V are in the outer square facing inward. A, B, C, D, E, and F are sitting in the inner square facing outward. They all are sitting in such a way that in each square, four persons are sitting in the middle of the sides and two persons are sitting on diagonally opposite corners. Each friend in the inner square is facing another friend of the outer square. There are exactly two persons sitting between P and T. E sits second to the left of A. R is on the immediate left of the one who is facing A. Neither E nor A faces either T or P. S is facing F and Q is not opposite R in the outer square. T is not sitting adjacent to S. B is not facing P. Between B and D, there are as many persons as between R and V.",
+        "question": "Who is sitting on the immediate left of R?",
+        "options": [
+            "A",
+            "S",
+            "P",
+            "Data inadequate",
+            "None of these"
+        ],
+        "answer": "C"
+    },
+    {
+        "context": "P, M, D, A, F, H, R, and B are sitting around a circle facing at the centre. R is 4th to the right of A, who is 3rd to the right of P. M is second to the left of H, who is 2nd to the left of P. D is 3rd to the right of B.",
+        "question": "Who is 3rd to the left of H?",
+        "options": [
+            "M",
+            "A",
+            "B",
+            "F",
+            "Data inadequate"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "P, M, D, A, F, H, R, and B are sitting around a circle facing at the centre. R is 4th to the right of A, who is 3rd to the right of P. M is second to the left of H, who is 2nd to the left of P. D is 3rd to the right of B.",
+        "question": "Which of the following pairs represents the immediate neighbours of B?",
+        "options": [
+            "FM",
+            "AP",
+            "MP",
+            "AF",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "P, M, D, A, F, H, R, and B are sitting around a circle facing at the centre. R is 4th to the right of A, who is 3rd to the right of P. M is second to the left of H, who is 2nd to the left of P. D is 3rd to the right of B.",
+        "question": "If R and B interchange their positions, who will be 2nd to the left of M?",
+        "options": [
+            "B",
+            "H",
+            "P",
+            "Data inadequate",
+            "None of these"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "A, M, D, P, R, T, B, and H are sitting around a circle facing at the centre. M is 3rd to the left of A who is 2nd to the left of T. D is 2nd to the right of H who is 2nd to the right of T. R is 2nd to the right of B who is not an immediate neighbour of T.",
+        "question": "Which of the following combinations represents the first and the second to the left of B respectively?",
+        "options": [
+            "MD",
+            "DH",
+            "AM",
+            "AR",
+            "DM"
+        ],
+        "answer": "E"
+    },
+    {
+        "context": "A, M, D, P, R, T, B, and H are sitting around a circle facing at the centre. M is 3rd to the left of A who is 2nd to the left of T. D is 2nd to the right of H who is 2nd to the right of T. R is 2nd to the right of B who is not an immediate neighbour of T.",
+        "question": "Who is 3rd to the right of T?",
+        "options": [
+            "D",
+            "B",
+            "H",
+            "M",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "A, B, C, D, E, F, G, and H are sitting around a circle facing the centre. F is third to the right of C and second to the left of H. D is not an immediate neighbour of C or H. E is to the immediate right of A, who is second to the right of G.",
+        "question": "Who is second to the left of C?",
+        "options": [
+            "A",
+            "B",
+            "E",
+            "D",
+            "None of these"
+        ],
+        "answer": "A"
+    },
+    {
+        "context": "A, B, C, D, E, F, G, and H are sitting around a circle facing the centre. F is third to the right of C and second to the left of H. D is not an immediate neighbour of C or H. E is to the immediate right of A, who is second to the right of G.",
+        "question": "Who is to the immediate right of C?",
+        "options": [
+            "A",
+            "B",
+            "D",
+            "B or D",
+            "None of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "context": "A, B, C, D, E, F, G, and H are sitting around a circle, facing the centre. E and G always sit next to each other. D sits third to the right of C. F sits to the left of H. C never sits next to A while D never sits next to G. H is not the neighbour of D and C.",
+        "question": "Who sits to the immediate right of F?",
+        "options": [
+            "D",
+            "C",
+            "B",
+            "A",
+            "None of these"
+        ],
+        "answer": "D"
+    },
+    {
+        "context": "A, B, C, D, E, F, G, and H are sitting around a circle, facing the centre. E and G always sit next to each other. D sits third to the right of C. F sits to the left of H. C never sits next to A while D never sits next to G. H is not the neighbour of D and C.",
+        "question": "Four of the following are alike in a certain way based on their positions in the sitting arrangement and so form a group. Which is the one that does not belong to that group?",
+        "options": [
+            "CH",
+            "BA",
+            "FE",
+            "DG",
+            "AC"
+        ],
+        "answer": "E"
+    }
+]
